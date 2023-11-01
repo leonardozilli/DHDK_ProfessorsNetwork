@@ -105,7 +105,8 @@ class AuthorPage(Page):
 
 def scrape_publications():
     target = 'https://www.unibo.it/sitoweb/{}/pubblicazioni'
-    prof_list = ['silvio.peroni', 'sofia.pescarin', 'fabio.vitali', 'francesca.tomasi', 'aldo.gangemi', 'paola.italia', 'fabio.tamburini']
+    #prof_list = ['silvio.peroni', 'sofia.pescarin', 'fabio.vitali', 'francesca.tomasi', 'aldo.gangemi', 'paola.italia', 'fabio.tamburini']
+    prof_list = ['marilena.daquino2', 'saverio.giallorenzo2', 'annafelicia.zuffran2', 'giulio.iovine2', 'ilaria.bartolini', 'giorgio.spedicato', 'monica.palmirani', 'ekaterina.baskakova2', 'simone.ferriani']
     prof_dict = {key:None for key in prof_list}
 
     for prof in prof_list:
@@ -114,11 +115,11 @@ def scrape_publications():
         page.get_pubblicazioni()
         prof_dict[prof] = page.pubblicazioni
 
-    with open("cris_publications.json", "w") as outfile: 
+    with open("cris_publications2.json", "w") as outfile: 
         json.dump(prof_dict, outfile)
 
 def scrape_pub_info():
-    with open("test.json", "r") as outfile: 
+    with open("test2.json", "r") as outfile: 
         data = json.load(outfile)
 
     for prof in data:
@@ -130,7 +131,7 @@ def scrape_pub_info():
             page = PublicationPage(link + '?mode=full')
             data[prof][link] = page.build_pub_dict()
     
-    with codecs.open("data/publications.json", "w", "utf-8") as output: 
+    with codecs.open("data/publications2.json", "w", "utf-8") as output: 
         json.dump(data, output, indent=4)
 
 
@@ -152,7 +153,7 @@ def identify_authors():
         except AttributeError:
             print(f'id {author_page.target} not found')
 
-    with codecs.open("data/internalAuthors.json", "w", "utf-8") as output: 
+    with codecs.open("data/internalAuthors3.json", "w", "utf-8") as output: 
         json.dump(author_d, output, indent=4)
     
 
@@ -161,7 +162,7 @@ def identify_authors():
 
 
 def main():
-    #scrape_publication()
+    #scrape_publications()
     #scrape_pub_info()
     identify_authors()
 
