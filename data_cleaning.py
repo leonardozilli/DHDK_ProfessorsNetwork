@@ -54,4 +54,6 @@ all_dataframes = [df_peroni, df_gangemi, df_italia, df_pescarin, df_tamburini, d
 
 combined_df = pd.concat(all_dataframes, ignore_index=True)
 combined_df['Keywords'] = combined_df['Keywords'].str.replace(';', ',')
+combined_df['Scopus_Keywords'] = combined_df['Scopus_Keywords'].str.replace('*', 'None')
+
 print(combined_df['Scopus_Keywords'])
