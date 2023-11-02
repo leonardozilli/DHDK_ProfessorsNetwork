@@ -9,6 +9,7 @@ def extract_data_to_dataframe(json_file, person_name):
     external_author = []
     title = []
     keywords = []
+    scopus_keywords = []
     date_issued = []
     doi = []
     collection_name = []
@@ -20,6 +21,7 @@ def extract_data_to_dataframe(json_file, person_name):
         external_author.append(url_data['externalAuthor'])
         title.append(url_data.get('dc.title', ''))
         keywords.append(url_data.get('dc.keywords', ''))
+        scopus_keywords.append(url_data.get('scopus.keywords', ''))
         date_issued.append(url_data.get('dc.date.issued', ''))
         doi.append(url_data.get('dc.identifier.doi', ''))
         collection_name.append(url_data.get('dc.collection.name', ''))
@@ -30,6 +32,7 @@ def extract_data_to_dataframe(json_file, person_name):
         'External_Author': external_author,
         'Title': title,
         'Keywords': keywords,
+        'Scopus_Keywords': scopus_keywords,
         'Date_Issued': date_issued,
         'DOI': doi,
         'Collection_Name': collection_name
@@ -50,5 +53,5 @@ all_dataframes = [df_peroni, df_gangemi, df_italia, df_pescarin, df_tamburini, d
 
 
 combined_df = pd.concat(all_dataframes, ignore_index=True)
-# combined_df['Keywords'] = combined_df['Keywords'].str.replace(';', ',')
-# print(combined_df)
+combined_df['Keywords'] = combined_df['Keywords'].str.replace(';', ',')
+print(combined_df['Scopus_Keywords'])
