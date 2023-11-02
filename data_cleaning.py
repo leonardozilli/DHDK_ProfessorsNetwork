@@ -55,4 +55,8 @@ all_dataframes = [df_peroni, df_gangemi, df_italia, df_pescarin, df_tamburini, d
 combined_df = pd.concat(all_dataframes, ignore_index=True)
 combined_df['Keywords'] = combined_df['Keywords'].str.replace(';', ',')
 combined_df['Scopus_Keywords'] = combined_df['Scopus_Keywords'].str.replace('*', 'None')
+combined_df['Keywords'] = combined_df['Keywords'].str.lower()
+old_value = '9999'
+new_value = None
+combined_df['Date_Issued'] = combined_df['Date_Issued'].str.replace(old_value, new_value)
 print(combined_df['Scopus_Keywords'])
