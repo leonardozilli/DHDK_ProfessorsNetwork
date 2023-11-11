@@ -61,11 +61,43 @@ def visualize_graph(graph):
 
     plt.show()
 
+def calc_compactness(graph):
+    total_compactness = 0
+    total_pairs = 0
+
+    for node1 in graph.nodes():
+        for node2 in graph.nodes():
+            if node1 != node2:
+                try:
+                    distance = 1 / nx.shortest_path_length(graph, node1, node2)
+                    total_compactness += distance
+                    total_pairs += 1
+                except nx.NetworkXNoPath:
+                    pass
+
+    if total_pairs == 0:
+        return 0  
+
+    return total_compactness / total_pairs
+
 def analysis(graph):
     betweenness_centrality = nx.betweenness_centrality(G)
     degree_centrality = nx.degree_centrality(G)
     closeness_centrality = nx.closeness_centrality(G)
     eigenvector_centrality = nx.eigenvector_centrality(G)
+    clustering = nx.clustering(G)
+    avg_cohesion = nx.average_clustering(G)
+    num_connected_components = nx.number_connected_components(G)
+    compactness = calc_compactness(G)
+    transitivity = nx.transitivity(G)
+    core_number = nx.core_number(G)
+    communities = nx.algorithms.community.greedy_modularity_communities(G)
+
+    community_mapping = {}
+    for i, community in enumerate(communities):
+        for node in community:
+            community_mapping[node] = i
+
 
     bc_data = pd.DataFrame.from_dict(betweenness_centrality, 
                                 columns=["BetweennessCentrality"], 
@@ -82,11 +114,28 @@ def analysis(graph):
     ec_data = pd.DataFrame.from_dict(eigenvector_centrality, 
                                 columns=["EigenvectorCentrality"], 
                                 orient="index")
+    
+    clustering_data = pd.DataFrame.from_dict(clustering, 
+                                columns=["Clustering"],
+                                orient="index")
+    
+    k_data = pd.DataFrame.from_dict(core_number,
+                                    columns=["KCore"],
+                                    orient="index")
+    
+    c_data = pd.DataFrame.from_dict(community_mapping,
+                                    columns=["Communities"],
+                                    orient="index")
 
-    centrality_data = pd.concat([bc_data, dc_data, cc_data, ec_data], axis=1)
+
+    centrality_data = pd.concat([bc_data, dc_data, cc_data, ec_data, clustering_data, k_data, c_data], axis=1)
 
     print(centrality_data.sort_values(by=['BetweennessCentrality'], ascending=False).head())
-
+    print("Cohesion: ", avg_cohesion)
+    print("Connectedness: ", num_connected_components)
+    print("Compactness: ", compactness)  
+    print("Transitivity: ", transitivity)  
+    
 def main():
     add_authors(G)
     add_edges(G)
