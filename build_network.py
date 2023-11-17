@@ -6,6 +6,7 @@ from pprint import pprint
 import matplotlib.pyplot as plt
 from itertools import combinations
 
+
 def add_authors(graph, input):
     with open(input, 'r') as f:
         authors = json.load(f)
@@ -13,11 +14,11 @@ def add_authors(graph, input):
     for author in authors:
         graph.add_node(authors[author]['Nome completo'], id=author, affiliation=authors[author]['Afferenza'])
 
-def add_edges(graph, input1, input2):
-    with open(input1, 'r') as f:
+def add_edges(graph, input1, input2, threshold=None):
+    with open(input2, 'r') as f:
         publications = json.load(f)
     
-    with open(input2, 'r') as f:
+    with open(input1, 'r') as f:
         authors = json.load(f)
 
     for prof in publications:
@@ -69,9 +70,9 @@ def build_network(graph, authors_json, publications_json):
 def write_network(graph, output):
     nx.write_gml(graph, output, stringizer=lambda x: str(x))
 
-    
+
 def main():
-    dhdk_prof_list = ['PERONI, SILVIO', 'TOMASI, FRANCESCA', 'VITALI, FABIO', 'PESCARIN, SOFIA', 'graphANGEMI, ALDO', 'ITALIA, PAOLA', 'TAMBURINI, FABIO', 'DAQUINO, MARILENA', 'GIALLORENZO, SAVERIO', 'ZUFFRAN, ANNAFELICIA', 'IOVINE, GIULIO', 'BARTOLINI, ILARIA', 'SPEDICATO, GIORGIO', 'PALMIRANI, MONICA', 'BASKAKOVA, EKATERINA', 'FERRIANI, SIMONE']
+    dhdk_prof_list = ['PERONI, SILVIO', 'TOMASI, FRANCESCA', 'VITALI, FABIO', 'PESCARIN, SOFIA', 'GANGEMI, ALDO', 'ITALIA, PAOLA', 'TAMBURINI, FABIO', 'DAQUINO, MARILENA', 'GIALLORENZO, SAVERIO', 'ZUFFRAN, ANNAFELICIA', 'IOVINE, GIULIO', 'BARTOLINI, ILARIA', 'SPEDICATO, GIORGIO', 'PALMIRANI, MONICA', 'BASKAKOVA, EKATERINA', 'FERRIANI, SIMONE']
     cs_prof_list = []
     it_prof_list = []
 
@@ -79,12 +80,14 @@ def main():
     cs_graph = nx.Graph()
     it_graph = nx.Graph()
 
-    target_graph = it_graph
+
+    #target_graph = nx.read_gml('./data/{0}/{0}_coauthorship_network.gml'.format('dhdk'))
     build_network(target_graph, './data/it/it_authors.json', './data/it/it_publications.json')
-    print(target_graph)
-    nx.write_gml(target_graph, 'data/it/it_coauthorship_network.gml', stringizer=lambda x: str(x))
-    #most recurring collaborations -> print(sorted(graph.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)[0])
-    visualize_graph(target_graph, dhdk_prof_list)
+    
+    #print(sorted(target_graph.degree(), key=lambda x: x[1]))
+    #nx.write_gml(target_graph, 'data/it/it_coauthorship_network.gml', stringizer=lambda x: str(x))
+    #print(sorted(target_graph.edges(data=True),key= lambda x: x[2]['weight'],reverse=True)[0])
+    #visualize_graph(target_graph, dhdk_prof_list)
 
 if __name__ == '__main__':
     main()
