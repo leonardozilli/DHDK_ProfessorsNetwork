@@ -1,0 +1,5088 @@
+,dc.keywords
+0,data science
+1,semantic publishing
+2,scientometrics
+3,bibliometrics
+4,science of science
+5,library and information sciences
+6,psychology
+7,cognitive science
+8,physical sciences
+9,communication and media studies
+10,museum studies
+11,computer science
+12,sociology
+13,publishing
+14,openaire
+15,open science
+16,open science infrastructures
+17,european open science cloud
+18,computer science
+19,citizen curation
+20,digital humanities
+21,ontologies
+22,wikicite
+23,open citations
+24,opencitations data model
+25,wikipedia citations
+26,digital cultural heritage
+27,digital twins
+28,photogrammetry
+29,preservation of temporary exhibitions
+30,structured light scanning
+31,scientometrics
+32,open access
+33,bibliometrics
+34,citation-based metrics
+35,citation networks
+36,academic evaluation
+37,open science
+38,dimensions of proximity
+39,provenance
+40,change-tracking
+41,rdf
+42,digital humanities
+43,author name disambiguation
+44,bibliographic data
+45,citation data
+46,clustering
+47,knowledge graph embeddings
+48,open citations
+49,bibliographic databases
+50,open citations
+51,citation indexes
+52,digital humanities
+53,humanities research
+54,opencitations
+55,python
+56,rdf
+57,rdflib
+58,citation data
+59,bibliographic metadata
+60,spar ontologies
+61,data collection
+62,scientific misconduct
+63,citation analysis
+64,retraction
+65,topic modeling
+66,humanities
+67,digital humanities
+68,computational thinking
+69,master degree
+70,phd degree
+71,university of bologna
+72,rest api
+73,opencitations
+74,citation data
+75,sparql endpoint
+76,rdf
+77,linked data
+78,triplestore
+79,ramose
+80,data access
+81,query language
+82,open science infrastructures
+83,opencitations
+84,fair
+85,posi
+86,invalid citations
+87,incorrect doi
+88,open citations
+89,crossref
+90,opencitations
+91,cultural heritage
+92,semantic web
+93,citizen curation
+94,semantic publishing
+95,scholarly metadata
+96,provenance
+97,change-tracking
+98,open science
+99,bibliographic data
+100,open bibliographic repositories
+101,open data
+102,opencitations
+103,open citation data
+104,open bibliographic metadata
+105,semantic web
+106,opencitations
+107,citation data
+108,open science infrastructure
+109,references extraction
+110,references parsing
+111,structured citation data
+112,citation indexing
+113,open citations
+114,bibliographic information retrieval
+115,open research infrastructure
+116,bibliographic references
+117,citations
+118,publication metadata
+119,publication types
+120,citation behaviours
+121,change-tracking
+122,opencitations
+123,provenance
+124,rdf
+125,time-traversal query
+126,research data management
+127,fair principles
+128,survey
+129,humanities
+130,grounded theory approach
+131,humanities
+132,topic modeling
+133,retraction
+134,citation analysis
+135,retraction
+136,science of science
+137,topic modeling
+138,bibliographic data
+139,data science
+140,digital libraries
+141,machine learning
+142,bibliographic metadata
+143,bibliographic references
+144,frbr
+145,in-text reference pointers
+146,information representation
+147,reference styles
+148,topic modelling
+149,mitao
+150,tool
+151,topic modeling
+152,natural language processing
+153,medieval manuscripts ontology
+154,memo
+155,ontology engineering
+156,medieval manuscripts
+157,progetto irnerio
+158,cultural heritage
+159,citizen curation
+160,spice
+161,text analysis
+162,discourse analysis
+163,topics
+164,frames
+165,discourse
+166,themes
+167,topic modelling
+168,visualization
+169,mitao
+170,python
+171,book citation
+172,citation analysis
+173,coci
+174,open citation data
+175,opencitations
+176,scholarly communication
+177,open citations
+178,open science
+179,in-text citations
+180,bibliographic metadata
+181,infrastructure service
+182,opencitations
+183,opencitations corpus
+184,opencitations data model
+185,opencitations index
+186,opencitations meta
+187,open citations
+188,open citation identifier
+189,open scholarship
+190,scholarly infrastructure organization
+191,digital humanities
+192,scientometrics
+193,citation analysis
+194,ontology reuse
+195,ontology selection
+196,ontology integration
+197,open citations
+198,scholarly data
+199,data model
+200,science of science
+201,self-citations
+202,longitudinal study
+203,scientific habilitation
+204,citizen curation
+205,interpretation
+206,museum information system
+207,reflection
+208,user engagement
+209,open citations
+210,opencitations
+211,coci
+212,croci
+213,altmetrics
+214,bibliometric indicators
+215,correlation analysis
+216,research quality
+217,semantic publishing
+218,visual analytics
+219,ontologies
+220,data mining
+221,scholarly data
+222,oscar
+223,opencitations
+224,occ
+225,coci
+226,sparql
+227,free-text search
+228,scholarly data
+229,advanced search
+230,index terms—document visualization
+231,information interfaces and presentation
+232,scholarly articles
+233,structural patterns
+234,sunburst
+235,asn
+236,research evaluation
+237,open citations
+238,open data
+239,academic assessment
+240,asn
+241,data processing
+242,informetrics
+243,machine learning
+244,national scientific habilitation
+245,predictive models
+246,research evaluation
+247,science of science
+248,scientometrics
+249,crossref citation data
+250,open citation data
+251,open citations
+252,rdf
+253,reproducible bibliometrics
+254,entrepreneurship
+255,data science
+256,university-industry collaborations
+257,technology innovation management
+258,scientometrics
+259,strategy
+260,business performance analytics
+261,open citation data
+262,opencitations
+263,citation data curation
+264,open science
+265,semantic publishing
+266,open citation data
+267,opencitations
+268,citation data curation
+269,open science
+270,semantic publishing
+271,linked open data visualisation
+272,rdf
+273,semantic web
+274,sparql
+275,software
+276,citation functions
+277,citations
+278,semantic publishing
+279,theoretical computer science
+280,computer science (all)
+281,free-text search
+282,opencitations
+283,opencitations corpus
+284,oscar
+285,scholarly data
+286,sparql
+287,theoretical computer science
+288,computer science (all)
+289,semantics
+290,analytics
+291,visualization
+292,scholarly data
+293,scholarly dissemination
+294,open citations
+295,opencitations indexes
+296,open science infrastructures
+297,owl ontologies
+298,scholarly communication
+299,scholarly publishing
+300,semantic publishing
+301,spar
+302,theoretical computer science
+303,computer science (all)
+304,agile ontology development methodology
+305,conceptual modelling
+306,knowledge engineering
+307,ontology engineering
+308,owl ontologies
+309,samod
+310,test-driven development
+311,theoretical computer science
+312,computer science (all)
+313,analysis of linked data
+314,exploratory search
+315,knowledge exploration
+316,knowledge patterns
+317,visual exploration
+318,information systems
+319,computer science applications1707 computer vision and pattern recognition
+320,computer networks and communications
+321,computer science (all)
+322,mathematics (all)
+323,semantic publishing
+324,spacin
+325,opencitations
+326,opencitations corpus
+327,semantic publishing
+328,citation data
+329,linked open data visualisation
+330,rdf
+331,semantic web
+332,sparql
+333,computer science (all)
+334,information systems
+335,digital libraries and archives
+336,applied computing
+337,fine arts
+338,document metadata
+339,data conversion
+340,data reengineering
+341,data visualisation
+342,fast-fashion design
+343,ontology
+344,owl
+345,semantic web
+346,software
+347,human-computer interaction
+348,computer networks and communications
+349,occ
+350,open citation data
+351,opencitations
+352,opencitations corpus
+353,public domain
+354,spar ontologies
+355,theoretical computer science
+356,computer science (all)
+357,data modeling
+358,interoperability
+359,linked open data for smart cities
+360,rdf data processing
+361,semantics and egovernment
+362,management information systems
+363,information systems
+364,computer science applications1707 computer vision and pattern recognition
+365,information systems and management
+366,digital publishing
+367,document conversion
+368,rash
+369,semantic publishing
+370,semantic web
+371,xslt
+372,computer science (all)
+373,scholarly data
+374,semantics
+375,analytics
+376,visualization
+377,save-sd
+378,semantics
+379,analytics
+380,visualization
+381,scholarly data
+382,odp
+383,publishing process
+384,pwo
+385,workflow description
+386,information systems
+387,computer science applications1707 computer vision and pattern recognition
+388,computer networks and communications
+389,html-based scholarly articles
+390,raje
+391,rash
+392,rash framework
+393,research article in simplified html
+394,research communication
+395,web-first format
+396,software
+397,information systems
+398,computer science applications1707 computer vision and pattern recognition
+399,scholarly data
+400,semantic publishing
+401,accessibility in education
+402,accessibility in scientific documents
+403,accessible graphs
+404,rash
+405,computer networks and communications
+406,computer science applications1707 computer vision and pattern recognition
+407,hardware and architecture
+408,communication
+409,akoma ntoso
+410,judicial documents
+411,normative documents
+412,owl 2 dl
+413,parliamentary documents
+414,undo
+415,united nations
+416,theoretical computer science
+417,computer science (all)
+418,change tracking
+419,semantic data
+420,provenance information
+421,opencitations
+422,opencitations corpus
+423,semantic publishing
+424,sparql
+425,rdf
+426,machine reading
+427,semantic publishing
+428,spar ontologies
+429,ontologies
+430,formal models
+431,earmark
+432,linked open data
+433,ontologies
+434,ontology design patterns
+435,citation database
+436,opencitations
+437,opencitations corpus
+438,scholarly communication
+439,semantic publishing
+440,html-based format
+441,scholarly html
+442,rash
+443,citation database
+444,opencitations
+445,opencitations corpus
+446,scholarly communication
+447,semantic publishing
+448,scholarly data
+449,scholarly communication
+450,semantic publishing
+451,linked data
+452,ontologies
+453,regulations
+454,rights
+455,semantic web and its applications
+456,semantic web for the legal domain
+457,computer networks and communications
+458,computer science applications1707 computer vision and pattern recognition
+459,information systems
+460,deo
+461,doco
+462,document components
+463,pdfx
+464,rhetoric
+465,spar ontologies
+466,structural patterns
+467,utopia documents
+468,computer networks and communications
+469,computer science applications1707 computer vision and pattern recognition
+470,information systems
+471,information realization
+472,information entities
+473,information objects
+474,ontology design patterns
+475,semantic web
+476,photo archive
+477,ontologies
+478,authorship
+479,linked data
+480,ontology
+481,ontology design patterns
+482,linked data
+483,ontology reuse
+484,extreme design
+485,federico zeri
+486,photography
+487,rdf
+488,smart cities
+489,semantic web
+490,open data
+491,ontologies
+492,citations
+493,information interfaces and presentation
+494,scholarly data visualization
+495,semantic publishing
+496,information systems
+497,software
+498,linked data
+499,machine reading
+500,semantic web
+501,computer networks and communications
+502,software
+503,data reengineering
+504,linked open dataset
+505,scholarly publications
+506,semantic enhancement
+507,semantic publishing
+508,macja
+509,semantic publishing
+510,spar ontologies
+511,computer science (all)
+512,rdf dataset visualization
+513,rslt
+514,templates
+515,computer science (all)
+516,citations
+517,open access
+518,open citation corpus
+519,references
+520,semantic publishing
+521,spar ontologies
+522,information systems
+523,library and information sciences
+524,rdf dataset visualisation
+525,rslt
+526,templates
+527,computer science (all)
+528,theoretical computer science
+529,digital publishing
+530,document conversion
+531,rash
+532,semantic publishing
+533,semantic web
+534,xslt
+535,computer science (all)
+536,data reengineering and enhancement
+537,linked open data
+538,scholarly data
+539,semantic lancet project
+540,semantic publishing
+541,spar ontologies
+542,computer science (all)
+543,theoretical computer science
+544,delicious
+545,folksonomy
+546,latent semantic analysis
+547,topicality and non-topicality of tags
+548,umbrella tags
+549,user testing session
+550,information systems
+551,library and information sciences
+552,vagueness
+553,ontologies
+554,semantic web
+555,odp
+556,publishing process
+557,pwo
+558,workflow description
+559,computer science (all)
+560,vagueness
+561,ontologies
+562,semantic web
+563,ontologies
+564,annotation
+565,geolat
+566,bibliographic ontology
+567,frbr
+568,functional requirements for bibliographic records
+569,scientific discourse
+570,owl
+571,bibliometric data
+572,bido
+573,data mining
+574,expert search
+575,hierarchical clustering
+576,owl
+577,rdf
+578,research data
+579,semantic web
+580,sparql
+581,computer science (all)
+582,xml
+583,document schemas
+584,ontologies
+585,bibliographic references
+586,biro
+587,c4o
+588,citation network
+589,renhancer
+590,semantic publishing
+591,spar
+592,computer science (all)
+593,knowledge engineering
+594,citations
+595,egovernment
+596,gis-based data management
+597,linked open data extraction and publication
+598,open data applications
+599,human-computer interaction
+600,computer networks and communications
+601,1707
+602,software
+603,ontology documentation
+604,cultural heritage
+605,digital cultural heritage
+606,linked open data
+607,digital editions
+608,digital libraries
+609,digital archives
+610,ontologies
+611,relational databases
+612,ditto
+613,graffoo
+614,graphical notation
+615,owl
+616,yed
+617,markup
+618,earmark
+619,xml
+620,overlapping
+621,eac(cpf)
+622,ontology
+623,isdf
+624,pro
+625,political role
+626,computer science (all)
+627,semantic web for the legal domain
+628,semantic publishing
+629,document semantics
+630,context and content
+631,ontologies
+632,document semantics
+633,semantic publishing
+634,web interface
+636,semantic web
+637,scholarly publishing
+638,semantic publishing and referencing ontologies
+639,earmark
+640,lode
+641,kc-viz
+642,graffoo
+643,gaffe
+644,spar ontologies
+645,scholarly communications
+646,linked data
+647,emergency vehicle routing
+648,geo-linked open data applications
+649,linked egovernment data extraction and publication
+650,sustainable mobility
+651,computer science (all)
+652,theoretical computer science
+653,bag
+654,collection
+655,list
+656,owl
+657,set
+658,computer networks and communications
+659,computer science applications1707 computer vision and pattern recognition
+660,information systems
+661,computer science (all)
+662,emergency vehicle routing
+663,geo-linked open data applications
+664,linked egovernment data extraction and publication
+665,sustainable mobility
+666,computer science (all)
+667,frbr
+668,functional requirements for bibliographic records
+669,scheda f
+670,cidoc-crm
+671,rdf
+672,owl
+673,fabio
+674,prov-o
+675,annotations
+676,earmark
+677,embedded markup
+678,linked open data
+679,stand-off markup
+680,knowledge management
+681,semantic publishing
+682,citalo
+683,citation function
+684,eac
+685,encoded archival description
+686,semantic models
+687,ontologies
+688,tei
+689,text encoding initiative
+690,geographic ontology
+691,semantic publishing
+692,diagrams
+693,modelling
+694,owl
+695,ontologies
+696,semantic publishing
+697,citation function
+698,doco
+699,document components
+700,xml
+701,europeana data model
+702,rdf
+703,ontologies
+704,frbr
+705,linked data
+706,knowledge engineering
+707,europeana data model
+708,digital libraries
+709,dublin core
+710,linked data
+711,ontologies
+712,ontology browser
+713,ontology engineering tools
+714,ontology documentation
+715,citations
+716,semantic publishing
+717,change tracking
+718,earmark
+719,frbr
+720,over-lapping markup
+721,owl ontologies
+722,provenance data
+723,computer science (all)
+724,design patterns
+725,xml schema design
+726,docbook
+727,tei
+728,timed abstract objects
+729,document as strings
+730,frbr
+731,functional requirements for bibliographic records
+732,xml
+733,earmark
+734,embedded markup
+735,overlapping markup
+736,owl
+737,publication characterization
+738,scholarly reference
+739,semantic publishing
+740,semantic web
+741,semantic lenses
+742,semantic publishing
+743,spar ontologies
+744,owl ontologies
+745,semantic publishing
+746,markup languages
+747,semantic mapping
+748,jats
+749,lode
+750,ontology documentation
+751,semantic web
+752,owl ontologies
+753,web tool
+754,ontology documentation
+755,owiki
+756,gaffe
+757,ontology editor
+758,ontology authoring
+759,semantic publishing
+760,semantic web
+761,linked data
+762,semantic web
+763,semantic publishing
+764,lode
+765,ontology visualization
+766,key concepts
+767,ontology summarization
+768,ontology navigation
+769,ontology engineering tools
+770,ontology visualization
+771,key concepts
+772,ontology summarization
+773,ontology navigation
+774,ontology engineering tools
+775,empirical evaluation
+776,earmark
+777,markup languages
+778,owl ontologies
+779,semantic web
+780,overlapping markup
+781,earmark
+782,lmm
+783,linguistic act
+784,markup semantics
+785,ontology visualization
+786,ontology navigation
+787,user interface
+788,document structure
+789,earmark
+790,owl
+791,overlapping markup
+792,structural markup ontology
+793,structural patterns
+794,validation
+795,semantic web
+796,web documents
+797,wiki
+798,semantic wiki
+799,automatic form generation
+800,owiki
+801,overlapping markup
+802,ontologies
+803,semantic web
+804,earmark
+805,cognitive systems and knowledge engineering
+806,human-knowledge interaction
+807,computer science (all)
+808,owl
+809,swrl
+810,literal reiﬁcation
+811,ontology design pattern
+812,ontology
+813,legal xml
+814,folksonomies
+815,semantic web
+816,word space models
+817,ontology
+818,wiki
+819,semantic wiki
+820,owiki
+821,folksengine
+822,folksonomies
+823,query expansion
+824,semantic search engine
+825,
+826,model/view/controller
+827,semantic forms
+828,gaffe
+829,legal xml
+830,ontologies
+831,akoma ntoso
+832,markup languages
+833,
+834,transclusions
+835,earmark
+836,markup languages
+837,xanadu
+838,ontology
+839,semantic web
+840,key concepts
+841,ontology summarization
+842,natural categories
+843,cognitive science
+844,n/a
+845,data visualisation
+846,rdf
+847,linked data
+848,higraphs
+849,modeling and visualization
+850,critical design
+851,wikidata
+852,reification
+853,knowledge representation
+854,cultural heritage
+855,digitisation cultural heritage
+856,european policy
+857,legal framework
+858,research and innovation
+859,n/a
+860,data scarcity
+862,deep learning
+864,tf-idf
+866,syntagmatic relations
+868,law
+869,explanatory ai
+870,explainable ai
+871,theory of explanations
+872,human–computer interaction
+873,human-centred explanations
+874,conjectures
+875,glam
+876,provenance
+877,uncertainty
+878,rdf
+879,methods for explanations
+880,education and learning-related technologies
+881,explanatory artificial intelligence (yai)
+882,objective explainability metric
+883,xai
+884,degree of explainability
+885,explainable artificial intelligence
+887,explainability
+889,metrics
+891,standardisation
+893,artificial intelligence act
+894,glam
+895,disagreement
+896,trustworthiness
+897,contexts
+898,n/a
+899,n/a
+900,legal question answering
+901,private international law
+902,knowledge graph extraction
+903,explainable artificial intelligence
+904,explainability
+905,metrics
+906,standardisation
+907,artificial intelligence act
+908,knowledge organization
+909,text encoding
+910,critical digital edition
+911,methods for explanations
+912,education and learning-related technologies
+913,explanatory artificial intelligence (yai)
+914,akoma ntoso
+915,classification ai
+916,nlp
+917,legal drafting techniques
+919,n/a
+920,trustworthy ai
+922,explanatory ai (yai)
+924,xai
+926,hci
+927,multiple points of view
+928,contrasting assertions
+929,rdf serialization
+930,scholarly conjectures
+931,multi-label text classification
+932,deep learning
+933,united nations resolutions
+934,sustainable development goals
+935,akoma ntoso
+936,n/a
+937,legal knowledge extraction
+938,question-answering
+939,ontology design
+940,pattern alignment
+942,interactive explanatory tool
+944,general data protection regulation
+946,trustworthy artificial intelligence
+947,diff
+948,pinocchio
+949,promessi sposi
+950,laboratorio
+951,blockchain
+952,dlt
+953,tokenization
+954,and digital government
+955,decentralized web technologies
+956,legal digital contracts
+957,legal informatics
+958,ricardian contracts
+959,smart contracts
+960,legal xml vocabulary
+961,markup language
+962,modules
+963,akoma ntoso
+964,change detection
+965,diff
+966,interpretation of changes
+967,textual differences
+968,versioning
+969,explanation
+971,explainability
+973,xai
+975,hci
+976,collaborative editing
+977,html
+978,technical documentation
+979,templating
+980,computer science applications
+981,european case law identifier
+982,legal semantic web
+983,judicial transparency
+984,open data
+985,change detection
+986,change-tracking
+987,diff algorithms
+988,edit operations
+989,high-level changes
+990,xml diff
+991,software
+992,knowledge management
+993,semantic web
+994,ontology
+995,delta model
+996,diff algorithms
+997,metrics
+998,output quality
+999,xml diff
+1000,software
+1001,hardware and architecture
+1002,law
+1003,descriptive markup
+1004,document visualisation
+1005,pattern recognition
+1006,structural patterns
+1007,xml
+1008,computer networks and communications
+1009,software
+1010,letteratura italiana
+1011,edizioni digitali
+1012,manzoni
+1013,scholarly editions
+1014,digital humanities
+1015,diff
+1016,philology
+1017,textual bibliography
+1018,versioning
+1019,human-computer interaction
+1021,diff algorithms
+1022,deltas
+1023,metrics
+1024,health informatics
+1025,e-health
+1026,networks
+1027,legal xml
+1028,akoma ntoso
+1029,legal normative reference
+1030,digital humanities
+1031,metadata
+1032,ontologies
+1033,vocabulary
+1034,annotation tools
+1035,collaboration environment
+1036,open annotation collaboration
+1037,digital editions
+1038,linked data
+1039,ontologies
+1040,markup languages
+1041,tei
+1042,text encoding initiative
+1043,allot
+1044,entity description
+1045,knowledge base query
+1046,legal ontology
+1047,linked data
+1048,ontology alignment
+1049,knowledge enginnering
+1050,wikis
+1051,web automation
+1052,wikiway
+1053,constrained wikis
+1054,wiki templating
+1055,document engineering
+1056,document formatting
+1057,layout algorithms
+1058,pagination
+1059,xml publishing
+1060,akoma ntoso
+1061,legislative xml
+1062,usability
+1063,legislative process
+1064,ontology
+1065,legalxml
+1066,metadata
+1067,akoma ntoso
+1068,legislative xml
+1069,xml schema language
+1070,akoma ntoso
+1071,legislative xml
+1072,xml schema language
+1073,ontologies
+1074,akoma ntoso
+1075,legislative xml
+1076,legislative drafting
+1077,
+1078,privacy
+1079,web 2
+1080,0
+1081,google docs
+1082,ajax
+1083,ebook
+1084,document metadata
+1085,semantic web
+1086,wiki
+1087,web technologies
+1088,ruleml
+1089,logic rules
+1090,web architectures
+1091,web engineering
+1092,semantic web
+1093,semantic wiki
+1094,wiki templating
+1095,
+1096,mediawiki
+1097,metadata
+1098,metadata editor
+1099,template
+1100,web 2
+1101,0
+1102,semantic wiki
+1103,legal xml
+1104,
+1107,web technologies
+1108,applied computing
+1109,social tagging system
+1110,semantic web
+1111,folksonomy
+1112,formal classification and subjecting system
+1115,business process management
+1116,coordination models and languages
+1117,web technologies
+1118,workflow systems
+1119,validation languages
+1120,xdtd
+1121,legal xml
+1122,legal ontology
+1123,legal system
+1124,time and norms
+1125,uri/purl
+1126,frbr
+1129,
+1130,legal informatics
+1131,legal xml
+1132,legal ontology
+1133,logic
+1134,uri
+1135,temporal model
+1136,ontology
+1137,frbr
+1138,
+1139,
+1140,
+1141,wiki engine
+1142,template
+1143,semantic web
+1144,microformats
+1145,
+1146,
+1147,
+1148,
+1149,
+1150,
+1151,
+1152,
+1153,semantic wiki
+1154,semantic web
+1155,web technologies
+1156,e-lerning
+1157,web standard
+1158,accessibility
+1159,e-learning
+1160,accessibility
+1161,usability
+1162,scorm
+1163,
+1164,
+1165,content customization
+1166,web 2
+1167,0
+1168,global editability
+1169,wiki
+1170,semantic web
+1171,ontologies
+1172,
+1173,
+1174,
+1175,
+1176,
+1177,
+1178,
+1179,
+1180,
+1181,web authoring
+1182,
+1183,
+1184,
+1185,xml
+1186,co-constraints
+1187,schema languages
+1188,schemapath
+1189,
+1190,
+1191,semantic collection
+1192,linked open data
+1193,mythologiae
+1194,storytelling
+1195,digital hermeneutics
+1196,iconology
+1197,iconography
+1198,art interpretation
+1199,ontology
+1200,cultural heritage
+1201,semantic web
+1202,knowledge graph evaluation
+1203,iconology
+1204,iconography
+1205,visual works
+1206,semantic alignment
+1207,annotation user interface
+1208,crowdsourcing
+1209,linked data
+1210,cultural heritage
+1211,omeka
+1212,iiif
+1213,mirador
+1214,cultural heritage ontologies
+1215,metadata
+1216,archival founds and collections
+1217,artchives
+1218,archival artistic data
+1219,linked open data
+1220,data analysis
+1221,deterministic rules
+1222,tei
+1223,rdf
+1224,scholarly tools
+1225,python
+1226,collezione semantica
+1227,linked open data
+1228,mythologiae
+1229,citazioni canoniche
+1230,ermeneutica digitale
+1231,workflow
+1232,semantic web
+1233,lucrezia borgia
+1234,rinascimento
+1235,mostra virtuale
+1236,documenti inediti
+1237,edizione semantica
+1238,ipermedialità
+1239,affidabilità
+1240,relazioni
+1241,contesto
+1242,livelli
+1243,linked open data
+1244,descrizione
+1245,interpretazione
+1246,digital humanities
+1247,aiucd
+1248,digital scholarly research
+1249,project-oriented method
+1250,linked open data
+1251,art history
+1252,archives
+1253,digital edition
+1254,semantic web
+1255,graph data model
+1256,letteratura italiana
+1257,cronologia ragionata
+1258,autori
+1259,generi
+1260,opere
+1261,lucrezio
+1262,de rerum natura
+1263,antico testamento
+1264,dante
+1265,commedia
+1266,omero
+1267,iliade
+1268,edizione digitale
+1269,digitale nativo
+1270,archivi di persona
+1271,lucrezia borgia- rinascimento- ferrara- modena- epistolografia
+1272,lucrezio
+1273,seneca
+1274,iconology
+1275,art history
+1276,semantic web
+1277,ontologies
+1278,semantic collection
+1279,linked open data
+1280,mythologiae
+1281,canonical citations
+1282,digital hermeneutics
+1283,lucrezio
+1284,seneca
+1285,digital finding aid
+1286,linked open data
+1287,writers’ archives
+1288,ead
+1289,dc
+1290,edm
+1291,eac-cpf
+1292,lod workflow
+1293,linked open data
+1294,lam
+1295,knowledge organization
+1296,dhdk
+1297,giustizia
+1298,dike
+1299,esiodo
+1300,pindaro
+1301,platone
+1302,eschilo
+1303,cicerone
+1304,aulo gellio
+1305,pelagio
+1306,dante
+1307,leibniz
+1308,ecclesiaste
+1309,vangelo di luca
+1310,apocalisse
+1311,archival linked data
+1312,data model
+1313,digital hermeneutics
+1314,library linked data
+1315,semantic web
+1316,tei
+1317,python
+1318,knowledge graph
+1319,digital edition
+1320,contemporary literature
+1321,knowledge organization
+1322,intertextuality
+1323,intratextuality
+1324,text encoding
+1325,semantic digital edition
+1326,testo digitale
+1327,editoria
+1328,accesso aperto
+1329,semantic web
+1330,riproducibilità
+1331,data visualization
+1332,ontology modelling
+1333,cultural heritage
+1334,archival science
+1335,semantic relationship
+1337,tei
+1338,linked open data
+1339,ontologies
+1340,digital scholarly editions
+1341,semantic publishing
+1342,learning areas
+1343,programme catalogue
+1344,professional figures
+1345,digital humanities
+1346,stakeholders and partnerships
+1347,ontologies
+1348,knowledge
+1349,interpretation
+1350,data structures
+1351,controlled vocabularies
+1353,ontologies
+1354,linked open data
+1355,personal archives
+1356,integration
+1357,heterogeneity
+1358,linked open data
+1359,photo archive
+1360,ontology development
+1361,ontologie
+1362,preservazione
+1363,provenienza
+1364,atto interpretativo
+1365,rappresentazione dati
+1366,web semantico
+1367,linked open data
+1368,filologia
+1369,lettere
+1370,vespasiano da bisticci
+1372,archivi
+1373,cidoc-crm
+1374,frbr
+1375,fotografia
+1376,ontologie
+1377,semantic web
+1378,organizzazione della conoscenza
+1379,ontologie
+1380,ermeneutica
+1381,metodologia
+1382,classificazione
+1383,digital humanities
+1384,objects' lifecycle
+1385,linked data
+1386,ontology
+1387,semantic web
+1388,xml semantics
+1389,modeling
+1390,text encoding theory
+1391,diario postumo
+1392,eugenio montale
+1393,forgery
+1394,authorship attribution
+1395,filologia
+1396,interdisciplinarità
+1397,falsi
+1398,falsari
+1399,poesia
+1400,poesia italiana del novecento
+1401,ontology tei xml interoperability lod digital libraries
+1402,text retrieval
+1403,text analysis
+1404,text mining
+1405,digital humanities
+1406,social
+1407,web skills profiles
+1408,cross disciplinary
+1409,data modelling
+1410,facets
+1411,context
+1412,cultural heritage
+1413,interpretation
+1414,provenance
+1415,authoritativeness
+1416,digital scholarly infrastructure
+1417,web environment
+1418,bibliographic codes
+1419,ambienti collaborativi
+1420,filologia d'autore
+1421,frbr
+1422,tei
+1423,linked open data
+1424,scholarly editions
+1425,authoritativeness
+1426,digital humanities
+1427,informatica umanistica
+1428,ontologies
+1429,proles
+1430,document centric
+1431,data centric
+1432,eac-cpf
+1433,tei
+1434,roles
+1435,creators
+1436,ontologies
+1437,hico
+1438,proles
+1439,prov-o
+1440,spar ontologies
+1441,frbr model
+1442,provenance
+1443,text encoding initiative (tei)
+1444,digital history
+1445,digital editions
+1447,xml
+1448,frbr
+1449,semantic web
+1450,metadata
+1451,geography
+1452,ontology
+1453,open annotation collaboration
+1454,controlled vocabularies
+1455,digital humanities
+1456,technology and the humanities
+1457,internet or the humanistic machine
+1458,writing and content production
+1459,representing and archiving
+1460,searching and organizing
+1461,dh in a global perspective
+1462,ontology matching
+1463,data modelling
+1464,facets
+1465,context
+1466,cultural heritage
+1467,digital humanities
+1468,digital philology
+1469,digital cultural heritage
+1470,digital libraries and archives
+1471,digital cultural heritage
+1472,digital humanities
+1473,computer science
+1474,archival studies
+1475,digital humanities
+1476,phantoms
+1477,web environment
+1478,digital editions
+1479,digital tools
+1480,ontologies
+1481,open annotation collaboration
+1482,linked data
+1483,semlib
+1484,tei
+1485,authority data
+1486,digital editions
+1487,linked data
+1488,semantic indexing
+1489,digital editions
+1490,web semantico
+1491,linked data
+1492,ontologies
+1493,letteratura greca
+1494,letteratura latina
+1495,rivoluzione
+1496,traduzioni
+1497,filologia classica
+1498,forgery
+1499,quantitative linguistics
+1500,image analysis
+1501,mathematics
+1502,philology
+1503,annotation
+1504,data model
+1505,edizione digitale
+1506,ambienti collaborativi
+1507,markup xml/tei
+1508,vespasiano da bisticci
+1509,firenze
+1510,xv secolo
+1511,lettere
+1512,barbari
+1513,permanenza del classico
+1514,ontologies
+1515,digital editions
+1516,rdf
+1517,knowledge base
+1518,humanities computing
+1519,figli
+1520,padre
+1521,maestri e allievi
+1522,il testamento di dio
+1523,fortuna dei classici
+1524,omero
+1525,virgilio
+1526,agostino
+1527,apocalisse
+1528,filologia computazionale
+1529,ipertesti letterari
+1530,dbms multimediali
+1531,metadati
+1532,digital humanities
+1533,markup dichiarativo
+1534,digital libraries and archives
+1535,semantic web
+1536,animali
+1537,bibbia
+1538,letteratura greca
+1539,letteratura latina
+1540,traduzione
+1541,
+1542,database
+1543,xml
+1544,soggettazione
+1545,classificazione
+1546,thesauri
+1547,permanenza del classico
+1548,authority records
+1549,digital humanities
+1550,web writing
+1551,search engines
+1552,digital preservation
+1553,markup languages
+1554,history of computer science
+1555,digital humanities
+1556,image processing
+1557,digital libraries and archives
+1558,database
+1559,web semantico
+1560,text analysis
+1561,digital preservation
+1562,linguaggi di markup
+1563,metadati
+1564,open archives
+1565,digital libraries
+1566,denaro
+1567,bibbia
+1568,letteratura greca
+1569,letteratura latina
+1570,traduzione
+1571,l'uomo è denaro
+1572,la maledizione dei poveri
+1573,governare la ricchezza
+1574,la vera ricchezza
+1575,letteratura latina
+1576,letteratura greca
+1577,letteratura biblica
+1578,traduzione
+1579,politica
+1580,letteratura e nuove tecnologie
+1581,humanities computer science
+1582,modelli ipermediali
+1583,humanities computer science
+1584,informatica umanistica
+1585,informatica e critica del testo
+1586,filologia computazionale
+1587,edizione digitale
+1588,complexity
+1589,humanities computer science
+1590,xml/tei
+1591,text model
+1592,xml/tei
+1593,tassonomia dei segni del manoscritto
+1594,livelli della trascrizione annotata
+1595,edizione digitale
+1596,rappresentare e interpretare
+1597,madre
+1598,bibbia
+1599,letteratura greca
+1600,letteratura latina
+1601,traduzione
+1602,variantistica
+1603,edizione digitale
+1604,editor manoscritti
+1605,filologia e informatica
+1606,xml/tei
+1607,apparato critico
+1608,fonti primarie
+1609,rappresentazione digitale
+1610,markup
+1611,
+1612,mandragola di machiavelli
+1613,edizione elettronica
+1614,progetto testi italiani in linea
+1615,struttura del testo teatrale
+1616,ipertesto
+1617,diritto
+1618,legge
+1619,giustizia
+1620,potere
+1621,spirito
+1622,human behaviour
+1623,psychology
+1624,emotions
+1625,knowledge graph
+1626,word embeddings
+1627,implicit biases
+1628,gender
+1629,cognitive semantics
+1630,foundations of trustworthy ai
+1631,automated reasoning
+1632,machine learning
+1633,combinatorial optimization
+1634,foundations of trustworthy ai
+1635,automated reasoning
+1636,machine learning
+1637,combinatorial optimization
+1638,personal data classification
+1639,privacy protection
+1640,sensitive data corpus
+1641,sensitive information detection
+1642,sensitive personal data
+1643,transformer models
+1645,commonsense reasoning
+1646,ethics & ai
+1647,frame semantics
+1648,knowledge representation
+1649,moral values
+1650,symbolism
+1651,similarity metric
+1652,quantitative cultural analysis
+1653,dolce
+1654,formal ontology
+1655,foundational ontology
+1656,ontological analysis
+1657,use cases
+1658,perspectives
+1659,perspectivisation
+1660,frame semantics
+1661,ontology design patterns
+1662,knowledge extraction
+1663,frame semantics
+1664,knowledge graph
+1665,knowledge representation
+1666,machine reading
+1667,ontology engineering
+1668,foundations of trustworthy ai
+1669,automated reasoning
+1670,machine learning
+1671,combinatorial optimization
+1672,claim verification
+1673,graph-based nlp
+1674,passage retrieval
+1675,sparql
+1676,meta-model
+1677,re-engineering
+1678,rdf
+1679,graph-based ai
+1680,privacy knowledge graph
+1681,privacy protection
+1682,semantic models
+1683,sensitive personal data
+1684,natural language processing
+1685,health data
+1686,systematic reviews
+1687,guidelines
+1688,evidence-based
+1689,medicine
+1690,covid-19
+1691,sars-cov-2
+1692,machine reading
+1693,machine learning
+1694,artificial intelligence
+1695,cognitive semantics
+1696,embodied cognition
+1697,frame semantics
+1698,image schemas
+1699,knowledge reprentation
+1700,moral values
+1701,frame semantics
+1702,zero-shot learning
+1703,natural language inferenced
+1704,recurrent situations
+1705,ontology design patterns
+1706,arco
+1707,ontology networks
+1708,sparql
+1709,metamodel
+1710,reengineering
+1711,fuzzy logic
+1712,wordnet synsets
+1713,knowledge graph
+1714,linked data
+1715,ontology
+1716,semantic web
+1717,symbolism
+1718,cultural heritage knowledge graph
+1719,ontology design patterns
+1720,ontology testing
+1721,ontology evaluation
+1722,dependency parsing
+1723,frame semantics
+1724,framester
+1725,role oriented knowledge graphs
+1726,semantic role labeling
+1727,computational musicology
+1728,music information retrieval
+1729,ontology
+1730,owl
+1731,rdf
+1732,semantic web
+1733,computational musicology
+1734,music information retrieval
+1735,semantic web
+1736,linked open data
+1737,ontology design patterns
+1738,computational musicology
+1739,computer music
+1740,music information retrieval
+1741,symbolism
+1742,knowledge graphs
+1743,cultural heritage
+1744,semantic web
+1745,altmetrics
+1746,research evaluation
+1747,bibliometric indicators
+1748,covid-19
+1749,sars-cov-2
+1750,ncov-2019
+1751,collection
+1752,cultural heritage
+1753,ontology design patterns
+1754,recurrent events
+1755,frame semantics
+1756,image schemas
+1757,knowledge graphs
+1758,linguistic linked data
+1759,ontology alignment
+1760,prepositions
+1761,arco
+1762,ontology
+1763,ontology network
+1764,cultural heritage
+1765,linked data
+1766,knowledge graphs
+1767,knowledge graphs
+1768,cultural heritage
+1769,ontology design
+1770,linked data
+1771,atlas of paths
+1772,cultural heritage
+1773,formal ontology
+1774,cognitive semantics
+1775,frames
+1776,knowledge patterns
+1777,relations
+1778,roles
+1779,semantic interoperability
+1780,conversational agents
+1781,human–robot interaction
+1782,natural language processing
+1783,socially assistive robotics
+1784,spoken dialogue systems
+1785,compositionality
+1786,frame semantics
+1787,knowledge graphs
+1788,natural language
+1789,social robots
+1790,ontology design
+1791,geriatric assessment
+1792,reminiscence therapy
+1793,formal ontology
+1794,knowledge extraction
+1795,metaphor semantics
+1796,artificial intelligence
+1797,compliance
+1798,consumers
+1799,knowledge patterns
+1800,nlp
+1801,ontology
+1802,privacy and data protection
+1803,privacy policies
+1804,computer science (all)
+1805,theoretical computer science
+1806,computer science (all)
+1807,metaphor representation
+1808,linked data
+1809,semantic web
+1810,data flows
+1811,policies
+1812,policy propagation
+1813,semantic web
+1814,formal concept analysis
+1816,robot experience stories
+1817,sitlog
+1818,service robot
+1819,narrative generation
+1820,semantic web
+1821,semantic web
+1822,semantic web
+1823,companion robots
+1824,ontology
+1825,semantic web
+1826,amr
+1827,fred
+1828,knowledge extraction
+1829,formal translation
+1830,comprehensive geriatric assessment
+1831,ontology network
+1832,ontology
+1833,robotics
+1834,online catalogue
+1835,music data
+1836,linked open data
+1837,knowledge reconciliation
+1838,frame embeddings
+1839,framester
+1840,co-reference resolution
+1841,embeddings
+1842,knowledge graph
+1843,similarity detection
+1844,dependency parsing
+1845,knowledge graphs
+1846,semantic parsing
+1847,artificial intelligence
+1848,natural language processing
+1849,web semantics
+1850,reminiscence
+1851,companion robots
+1852,semantic web
+1853,ontology
+1854,frame
+1855,semantics
+1856,ontology matching
+1857,integration
+1858,interoperability
+1859,linked open data
+1860,ontology
+1861,semantic web
+1862,cultural heritage
+1863,event extraction
+1864,knowledge extraction
+1865,linked data
+1866,machine reading
+1867,semantic web
+1868,linked data
+1869,midi
+1870,music interoperability
+1871,adjective semantics
+1872,formal ontology
+1873,knowledge extraction
+1874,association mining
+1875,incremental learning
+1876,workflows
+1877,citizen engagement
+1878,cloud computing
+1879,linked open data
+1880,smart city
+1881,smart governance
+1882,foaf
+1883,human relations
+1884,linked data
+1885,ontology
+1886,ontology desing pattern
+1887,affordance
+1888,behavior arbitration
+1889,case-based legal reasoning
+1890,judicial interpretation
+1891,legal knowledge modeling
+1892,ontology design patterns
+1893,owl2
+1894,ontology design patterns
+1895,research question
+1896,semantic web
+1897,data handling
+1898,academic conferences
+1899,linked data
+1900,ontology design
+1901,open sources
+1902,semantic web
+1903,ontology design patterns
+1904,dolce
+1905,descriptions and situations
+1906,event extraction
+1907,lived experiences extraction
+1908,machine reading
+1909,semantic web
+1910,user reviews
+1911,frame detection
+1912,framester
+1913,framenet
+1914,framenet coverage
+1915,knowledge graphs
+1916,frame semantics
+1917,linguistic linked data
+1918,abstractive summarisation
+1919,link semantics
+1920,open information extraction
+1921,open knowledge extraction
+1922,relation extraction
+1923,knowledge extraction
+1924,linked open data
+1925,machine reading
+1926,semantic web
+1927,coreference resolution
+1928,graph alignment
+1929,knowledge base integration
+1930,knowledge reconciliation
+1931,n-ary relations
+1932,knowledge pattern
+1933,owl
+1934,ontology design
+1935,ontology design patterns
+1936,ontology engineering
+1937,owl
+1938,dbpedia
+1939,entity recognition
+1940,knowledge base
+1941,knowledge extraction
+1942,data mining
+1943,fuzzy sets
+1944,ontology
+1945,lexical database
+1946,membership degrees
+1947,formal concept analysis
+1948,linked data
+1949,ontology design
+1950,event extraction
+1951,machine reading
+1952,semantic web
+1953,user reviews
+1954,computer science (all)
+1955,mathematics (all)
+1956,datanode
+1957,formal concept analysis
+1958,rdf licenses
+1959,knowledge integration
+1960,machine reading
+1961,semantic reconciliation
+1962,conceptual frames
+1963,opinion mining
+1964,sentic computing
+1965,sentiment analysis
+1966,anti-pattern
+1967,data quality
+1968,dbpedia
+1969,dolce
+1970,formal ontologies
+1971,foundational ontologies
+1972,graph mining
+1973,ntural language processing
+1974,semantic web
+1975,knowledge extraction
+1976,fred
+1977,domain adaptation
+1978,frame semantics
+1979,framenet
+1980,linguistic meta model
+1981,ontology learning
+1982,ontology design patterns
+1983,ontology refinement
+1984,ontology learning
+1985,spatial reference systems
+1986,semantic web
+1987,robotics
+1988,embodiment
+1989,spatial cognition
+1990,dbpedia
+1991,semantic relations
+1992,semantic web
+1993,knowledge extraction
+1994,theoretical computer science
+1995,computer science (all)
+1996,n-ary relations
+1997,ontology design patterns
+1998,theoretical computer science
+1999,computer science (all)
+2000,knowledge engineering
+2001,empirical knowledge representation
+2002,time representation
+2003,owl
+2004,semantic web
+2005,computational linguistics
+2006,language resources
+2007,common sense
+2008,collaborative environment
+2009,knowledge engineering
+2010,software engineering
+2011,semantic web
+2012,knowledge enginnering
+2013,knowledge engineering
+2014,semantic web
+2015,discourse representation theory
+2016,frame detection
+2017,knowledge extraction
+2018,robust ontology design
+2019,theoretical computer science
+2020,computer science (all)
+2021,ontology design
+2022,ontology networks
+2023,ontology engineering
+2024,knowledge engineering
+2025,semantic web
+2026,knowledge patterns
+2027,linked data
+2028,semantic web
+2029,semantic search
+2030,wikipedia
+2031,knowledge pattern
+2032,artificial intelligence
+2033,ontologies
+2034,lexique
+2035,frame semantics
+2036,web sémantique
+2037,technologies sémantiques
+2038,semantic web
+2039,search
+2040,knowledge engineering
+2041,knowledge pattern
+2042,legal knowledge
+2043,ontology engineering
+2044,legal domain
+2045,social ontology
+2046,ontology design
+2047,interaction patterns
+2048,content management systems
+2049,linked data
+2050,interactive systems
+2051,artificial intelligence
+2052,semantic web
+2053,rdf
+2054,ontology
+2055,visualisation
+2056,widgets
+2057,ontologies
+2058,semantic web
+2059,linked data
+2060,knowledge engineering
+2061,knowledge patterns
+2062,cognitive science
+2063,frames
+2064,semantic web
+2065,ontology design patterns
+2066,domain ontologies
+2067,ontology design
+2068,social norms
+2069,plans
+2070,descriptions and situations
+2071,social collectives
+2072,intentionality
+2073,ontology
+2074,semantic web
+2075,applications
+2076,ontologie
+2077,lexical semantics
+2078,semantic web
+2079,rappresentazione della conoscenza
+2080,ontology
+2081,software architecture
+2082,modularisation
+2083,core ontology of services
+2084,daml-s
+2085,descriptions and situations
+2086,dolce
+2087,owl-s
+2088,semantic web
+2089,web services
+2090,ecdotica filologia testuale
+2091,filologia italiana
+2092,critica del testo
+2093,ecdotica
+2094,teoria del testo
+2096,filologia italiana
+2097,ecdotica
+2098,letteratura italiana
+2099,letteratura italiana
+2100,filologia italiana
+2101,linguistica italiana
+2102,scrittura contemporanea
+2103,settecento
+2104,riforme
+2105,letteratura
+2106,arte
+2107,legislazione
+2108,carlo emilio gadda
+2109,grande guerra
+2110,diari
+2111,edizione critica
+2112,caporetto
+2113,memorialistica
+2114,dante
+2115,foscolo
+2116,leopardi
+2117,manzoni
+2118,commedia
+2119,fauriel
+2121,filologia d’autore
+2122,ecdotica
+2123,critica delle varianti
+2124,critica genetica
+2125,alberto blecua
+2126,dante isella
+2127,lope de vega
+2128,giacomo leopardi
+2129,alessandro manzoni
+2130,carlo emilio gadda
+2132,filologia d’autore
+2133,ecdotica
+2134,critica delle varianti
+2135,critica geneticav alberto blecua
+2136,dante isella
+2137,lope de vega
+2138,giacomo leopardi
+2139,alessandro manzoni
+2140,carlo emilio gadda
+2142,filologia della letteratura italiana
+2143,critica del testo
+2144,critica genetica
+2145,filologia d'autore
+2146,alberto savinio
+2147,carlo emilio gadda
+2148,giorgio bassani
+2149,alberto savinio
+2150,nuova enciclopedia
+2151,letteratura italiana moderna e contemporanea
+2152,filologia d'autore
+2153,filologia della letteratura italiana
+2154,filologia d'autore
+2155,filologia italiana
+2156,critica delle varianti
+2157,stéphane mallarmé
+2158,paul valéry
+2159,gianfranco contini
+2160,benedetto croce
+2161,lanfranco caretti
+2162,francesco petrarca
+2163,ludovico ariosto
+2164,giacomo leopardi
+2166,mario tobino
+2167,medical humanities
+2168,le libere donne di magliano
+2169,il deserto della libia
+2170,per le antiche scale
+2171,psichiatria e letteratura
+2172,carlo emilio gadda
+2173,letteratura italiana contemporanea
+2174,lessicografia
+2175,letteratura italiana
+2176,linguistica italiana
+2177,lingua italiana
+2178,didattica della lingua italiana
+2179,grammatica italiana
+2180,letteratura italiana
+2181,letteratura moderna e contemporanea
+2183,dante alighieri
+2184,divina commedia
+2185,foscolo
+2186,leopardi
+2187,manzoni
+2188,rossetti
+2189,scartazzini
+2190,witte
+2191,camerini
+2192,cannizzaro
+2194,dante alighieri
+2195,divina commedia
+2196,foscolo
+2197,witte
+2198,scartazzini
+2199,cannizzaro
+2200,porta
+2201,tommaseo
+2202,camerini
+2203,mots-clés : critique génétique
+2204,philologie d’auteur
+2205,carlo emilio gadda
+2206,alberto savinio
+2207,giorgio
+2208,bassani
+2209,carlo emilio gadda
+2210,biblioteche d'autore
+2211,letteratura italiana moderna e contemporanea
+2213,letteratura italiana
+2214,bibliografia
+2215,filologia italiana
+2216,critica del testo
+2217,scholarly editing
+2218,carlo emilio gadda
+2219,fascismo
+2220,eros e priapo
+2221,intertestualità
+2222,interdiscorsività
+2224,letteratura italiana
+2225,bibliografia
+2226,giorgio caproni
+2227,letteratura italiana moderna e contemporanea
+2228,letteratura italiana
+2229,primo levi
+2230,bibliografie
+2231,letteratura italiana moderna e contemporanea
+2232,dante alighieri
+2233,divina commedia
+2234,francesco flora
+2235,università di bologna
+2237,giacomo leopardi
+2238,scholarly digital editions
+2239,idilli
+2240,edizioni critiche digitali
+2241,filologia d'autore
+2243,letteratura italiana
+2244,editoria
+2245,edizioni digitali
+2246,scholarly editing
+2247,filologia italiana
+2248,critica testuale
+2249,archivi digitali
+2250,digital library
+2251,filologia italiana
+2252,giacomo leopardi
+2253,letteratura italiana
+2254,ecdotica
+2255,filologia d'autore
+2257,leopardi
+2258,edizioni digitali
+2259,«idilli»
+2260,reflectance transformation imaging (rti)
+2261,letteratura italiana
+2262,edizioni digitali
+2263,scholarly editing
+2264,testo digitale
+2265,archivi digitali
+2267,carlo emilio gadda
+2268,eros e priapo
+2269,il libro delle furie
+2270,filologia d'autore
+2271,critica delle varianti
+2272,pier paolo pasolini
+2273,«officina»
+2274,fascismo
+2275,dante
+2276,gadda
+2277,prima guerra mondiale
+2278,letteratura italiana
+2279,letteratura moderna e contemporanea
+2280,letteratura italiana
+2281,digital humanities
+2282,filologia italiana
+2283,letteratura italiana
+2284,eugenio montale
+2285,letteratura moderna e contemporanea
+2286,poesia del novecento
+2288,letteratura italiaa
+2289,napoleone
+2290,ugo foscolo
+2291,poesia italiana dell'ottocento
+2293,letteratura italiana
+2294,alessandro bonsanti
+2295,carlo emilio gadda
+2296,archivi del novecento
+2298,autore
+2299,scrittura
+2300,filologia italiana
+2301,linguistica italiana
+2302,filologia d'autore
+2303,editing
+2305,digital scholarly editing
+2306,authorial philology
+2307,censorship
+2308,benedetto varchi
+2309,renaissance history
+2310,italian renaissance literature
+2312,italian philology
+2313,authorial philology
+2314,textual criticism
+2315,genetic criticism
+2317,aldo moro
+2318,filologia d'autore
+2319,critica del testo
+2320,filologia italiana
+2322,letteratura italiana
+2323,filologia
+2324,testi digitali
+2325,digital humanities
+2326,manzoni
+2327,leopardi
+2328,filologia d'autore
+2329,scholarly editions
+2331,letteratura italiana
+2332,alessandro manzoni
+2333,i promessi sposi
+2334,la storia della colonna infame
+2336,gianfranco contini
+2337,einaudi editore
+2338,letteratura italiana
+2339,letteratura italiana moderna e contemporanea
+2341,letteratura italiana
+2342,alessandro manzoni
+2343,i promessi sposi
+2344,la storia della colonna infame
+2346,letteratura italiana
+2347,alessandro manzoni
+2348,i promessi sposi
+2349,silvio pellico
+2350,federico confalonieri
+2351,carboneria
+2352,letteratura italiana
+2353,letteratura italiana moderna e contemporanea
+2354,romanzo del novecento
+2355,carlo emilio gadda
+2356,psicoanalisi
+2357,filologia italiana
+2358,critica delle varianti
+2359,critica genetica
+2360,filologia d'autore
+2361,gianfranco contini
+2362,paul valéry
+2363,benedetto croce
+2364,letteratura italiana
+2365,letteratura moderna e contemporanea
+2366,carlo emilio gadda
+2367,giorgio bassani
+2368,"""paragone"""
+2369,quer pasticciaccio brutto de via merulana
+2370,psicoanalisi
+2371,"""botteghe oscure"""
+2372,authorial philology
+2373,variants criticism
+2374,wiki leopardi
+2375,ecdosys leopardi
+2376,wiki
+2377,gadda
+2378,filologia d’autore
+2379,edizioni digitali
+2380,scholarly edition
+2381,critica delle varianti
+2382,filologia d'autore
+2383,critica delle varianti
+2384,gianfranco contini
+2385,letteratura italiana
+2386,authorship
+2388,illuminismo
+2389,critica delle varianti
+2390,filologia d'autore
+2391,pietro verri
+2392,vittorio alfieri
+2393,vincenzo monti
+2394,alessandro manzoni
+2396,manzoni
+2397,pirandello
+2398,edizioni digitali
+2399,romanzo
+2400,carlo emilio gadda
+2401,classici
+2402,virgilio
+2403,catullo
+2404,cicerone
+2405,la cognizione del dolore
+2407,letteratura italiana
+2408,letteratura italiana contemporanea
+2409,editoria
+2410,storia del libro
+2411,editing
+2413,alberto savinio
+2414,letteratura italiana contemporanea
+2415,valentino bompiani
+2416,editoria
+2417,manzoni
+2418,alessandro
+2419,d’azeglio
+2420,cesare
+2421,romanticismo
+2423,lettera sul romanticismo
+2424,keywords
+2425,manzoni
+2426,alessandro
+2427,d’azeglio
+2428,cesare
+2429,romanticism
+2431,letter on romanticism
+2432,letteratura italiana
+2433,romanticismo
+2434,alessandro manzoni
+2435,filologia italiana
+2436,filologia d'autore
+2438,francesco petrarca
+2439,codice degli abbozzi
+2440,varianti
+2441,filologia d'autore
+2442,federico ubaldini
+2443,urbano viii
+2444,canzoniere
+2446,letteratura italiana
+2447,giacomo leopardi
+2448,poesia dell'ottocento
+2449,romanticismo
+2450,canti
+2452,letteratura italiana
+2453,manzoni
+2454,romanzo
+2455,promessi sposi
+2457,filologia italiana
+2458,ecdotica
+2459,filologia d'autore
+2460,digital humanities
+2462,gianfranco contini
+2463,letteratura francese
+2464,simbolismo
+2465,benedetto croce
+2466,critica delle varianti
+2467,critica genetica
+2468,filologia d'autore
+2469,mallarmé
+2470,valéry
+2471,proust
+2473,filologia d'autore
+2474,fotonica
+2475,authorship
+2476,imaging
+2477,edizioni critiche
+2478,edizioni scientifiche
+2479,manzoni
+2480,alessandro
+2481,i promessi sposi
+2482,varianti
+2483,ventisettana
+2484,seconda minuta
+2485,letteratura italiana contemporanea
+2486,archivi
+2487,letteratura del novecento
+2489,filologia d'autore
+2490,dante isella
+2491,critica delle varianti
+2492,giuseppe parini
+2493,carlo emilio gadda
+2494,vittorio sereni
+2495,alessandro manzoni
+2496,leo spitzer
+2497,carlo dossi
+2498,carlo porta
+2499,delio tessa
+2500,eugenio montale
+2502,letteratura italiana
+2503,letteratura moderne e contemporanea
+2504,filologia italiana
+2505,filologia d'autore
+2506,filologia editoriale
+2507,romanzo
+2508,editoria
+2510,leopardi
+2511,manoscritti
+2512,filologia
+2513,filologia d'autore
+2514,letteratura italiana dell'ottocento
+2515,paleografia
+2516,poesia italiana dell'ottocento
+2517,romanticismo
+2519,carlo emilio gadda
+2520,linguaggio
+2521,elettrotecnica
+2522,eros e priapo
+2523,fascismo
+2524,letteratura italiana
+2525,filologia italiana
+2526,filologia editoriale
+2527,letteratura del novecento
+2528,filologia d'autore
+2530,alberto savinio
+2531,letteratura italiana del novecento
+2532,metafisica
+2533,filologia d'autore
+2534,valentino bompiani
+2535,mario tobino
+2536,leonardo sciascia
+2537,letteratura italiana
+2539,letteratura italiana
+2540,collodi
+2541,pinocchio
+2542,digital humanities
+2543,filologia italiana
+2545,manosacritti
+2546,archivi
+2547,filologia
+2548,filologia d'autore
+2549,paleografia
+2550,giacomo leopardi
+2551,infinito
+2552,idillio
+2553,luigi blasucci
+2554,autografi
+2555,manoscritti
+2556,filologia d'autore
+2557,critica genetica
+2558,ariosto
+2559,gadda
+2560,manzoni
+2561,bassani
+2562,filologia d'autore
+2563,letteratura italiana
+2564,letteratura moderna e contemporanea
+2565,filologia della letteratura italiana
+2566,carlo emilio gadda
+2567,manoscritti
+2568,varianti d'autore
+2569,critica delle varianti
+2571,confocal microscopy
+2572,diffraction limit
+2573,ink
+2574,paper
+2575,schottky diode detector
+2576,terahertz
+2577,radiation
+2578,instrumentation
+2579,condensed matter physics
+2580,electrical and electronic engineering
+2581,filologia editoriale
+2582,edizioni critiche
+2583,edizioni critiche digitali
+2584,testi in raccolta
+2585,opere complete
+2586,letteratura italiana
+2587,letteratura moderna e contemporanea
+2588,giorgio bassani
+2589,filologia editoriale
+2591,epistolari
+2592,lettere
+2593,carteggi
+2594,giacomo leopardi
+2595,ecdotica
+2597,bibliofilia
+2598,antiquaria
+2599,filologia
+2600,letteratura italiana
+2601,letteratura moderna e contemporanea
+2602,luigi fallacara
+2603,filologia italiana
+2604,filologia d'autore
+2606,textual studies
+2607,digital humanities
+2608,scholarly editions
+2609,ecdotica
+2610,scholarly editions
+2611,filologia italiana
+2612,digital humanities
+2613,filologia d'autore
+2614,carlo emilio gadda
+2615,alessandro manzoni
+2616,ferdinando pessoa
+2617,friedrich nietzsche
+2618,jane austen
+2619,marcel proust
+2621,letteratura italiana
+2622,scholarly editions
+2623,filologia della letteratura italiana
+2624,google
+2625,edizioni
+2626,editing
+2628,autografia
+2629,autenticità
+2630,filologia d'autore
+2631,eugenio montale
+2632,annalisa cima
+2633,diario postumo
+2634,google
+2635,lettori
+2636,wiki-source
+2637,edizioni digitali
+2638,testi in rete
+2639,manzoni
+2640,filologia italiana
+2641,edizioni critiche digitali
+2642,digital humanities
+2643,carlo emilio gadda
+2644,wiki edizioni
+2645,filologia d'autore
+2647,letteratura italiana
+2648,letteratura moderna e contemporanea
+2649,filologia italiana
+2650,carlo emilio gadda
+2651,fascismo
+2652,freud
+2653,psicoanalisi
+2655,giacomo leopardi
+2656,filologia d'autore
+2657,poesia dell'ottocento
+2658,letteratura italiana
+2659,letteratura moderna e contemporanea
+2660,biblioteche d'autore
+2662,carlo emilio gadda
+2663,eros e priapo
+2664,fascismo
+2665,letteratura italiana
+2666,letteratura italiana
+2667,filologia della letteratura italiana
+2668,filologia d'autore
+2669,gianfranco contini
+2670,benedetto croce
+2671,alessandro manzoni
+2672,carlo goldoni
+2674,letteratura italiana
+2675,letteratura italiana moderna e contemporanea
+2676,carlo emilio gadda
+2677,digital humanities
+2679,alberto savinio
+2680,alessandro manzoni
+2681,fascismo
+2682,leonardo sciascia
+2683,letteratura del novecento
+2684,mario tobino
+2685,romanzo storico
+2687,zibaldone
+2688,operette morali
+2689,giacomo leopardi
+2690,letteratura contemporanea
+2691,moral philosophy
+2692,letteratura italiana
+2693,carlo emilio gadda
+2694,unpublished notes
+2695,letteratura italiana
+2696,archivi
+2697,biblioteche
+2698,manoscritti
+2699,gadda
+2700,filologia
+2701,editoria
+2702,ecdotica
+2703,letteratura italiana del novecento
+2704,letteratura del novecento
+2705,editoria
+2706,filologia
+2707,editing
+2708,letteratura italiana
+2709,letteratura dell'ottocento
+2710,giacomo leopardi
+2711,poesia
+2712,filologia italiana
+2713,filologia d'autore
+2715,alberto savinio
+2716,letteratura italiana
+2717,letteratura del novecento
+2718,europa
+2719,bompiani editore
+2720,letteratura italiana
+2721,poesia italiana
+2722,giacomo leopardi
+2723,versi
+2724,traduzioni
+2725,lingua italiana
+2726,scrittura professionale
+2727,didattica dell'italiano
+2728,scrittura argomentativa
+2729,letteratura italiana
+2730,letteratura italiana contemporanea
+2731,unpublished notes
+2732,carlo emilio gadda
+2733,giacomo leopardi
+2734,filologia italiana
+2735,critica del testo
+2736,letteratura ed editoria nel novecento
+2737,letteratura italiana
+2738,carlo emilio gadda
+2739,eugenio montale
+2740,letteratura del novecento
+2741,letteratura italiana
+2742,letteratura moderna e contemporanea
+2743,carlo emilio gadda
+2744,fascismo
+2746,letteratura italiana
+2747,letteratura italiana contemporanea
+2748,mario tobino
+2749,resistenza
+2750,letteratura italiana
+2751,letteratura italiana contemporanea
+2752,giovanni papini
+2753,giuseppe prezzolini
+2754,archivi del novecento
+2756,letteratura italiana
+2757,letteratura contemporanea
+2758,alberto savinio
+2759,opera lirica
+2760,libretti
+2761,letteratura italiana
+2762,letteratura italiana contemporanea
+2763,filologia italiana
+2764,attribuzionismo
+2765,autorialità
+2766,eugenio montale
+2767,stilometria
+2768,letteratura italiana
+2769,letteratura moderna e contemporanea
+2770,anna banti
+2771,roberto longhi
+2772,giorgio bassani
+2774,letteratura italiana
+2775,letteratura moderna e contemporanea
+2776,mario tobino
+2777,mino maccari
+2778,letteratura italiana
+2779,letteratura moderna e contemporanea
+2780,mario tobino
+2781,biblioteche d'autore
+2783,letteratura italiana
+2784,letteratura italiana del novecento
+2785,textual scholarship
+2786,bibliografia testuale
+2788,letteratura italiana
+2789,filologia della letteratura italiana
+2790,digital humanities
+2792,letteratura italiana
+2793,letteratura italiana moderna e contemporanea
+2794,carlo emilio gadda
+2795,fascismo
+2796,psicoanalisi
+2797,letteratura italiana
+2798,letteratura moderna e contemporanea
+2799,mario tobino
+2800,psichiatria
+2802,letteratura italiana
+2803,letteratura moderna e contemporanea
+2804,editoria
+2805,cesare pavese
+2806,einaudi editore
+2807,renato poggioli
+2809,letteratura italiana
+2810,letteratura contemporanea
+2811,filologia romanza
+2812,editoria
+2813,archivi del novecento
+2814,gianfranco contini
+2816,letteratura italiana
+2817,letteratura contemporanea
+2818,resistenza
+2819,gianfranco contini
+2820,sandro sinigaglia
+2821,carteggi
+2822,letteratura italiana
+2823,carlo emilio gadda
+2824,racconti
+2825,letteratura italiana
+2826,letteratura moderna e contemporanea
+2827,arte del novecento
+2828,alberto savinio
+2829,scuola metafisica
+2830,filologia della letteratura italiana
+2831,ecdotica
+2832,textual scholarship
+2834,letteratura italiana
+2835,letteratura dell'ottocento
+2836,giacomo leopardi
+2837,canti
+2838,letteratura italiana
+2839,letteratura moderna e contemporanea
+2840,mario tobino
+2841,guerra di libia
+2842,letteratura italiana
+2843,letteratura moderna e contemporanea
+2844,mario tobino
+2846,letteratura dell'ottocento
+2847,leopardi
+2848,montesquieu
+2849,poetica
+2850,estetica
+2851,letteratura italiana
+2852,arte contemporanea
+2853,arte metafisica
+2854,alberto savinio
+2855,andrea de chirico
+2856,letteratura italiana
+2857,letteratura moderna e contemporanea
+2858,alberto savinio
+2859,valentino bompiani
+2860,letteratura italiana
+2861,letteratura italiana contemporanea
+2862,"""la voce"""
+2864,letteratura italiana
+2865,letteratura moderna e contemporanea
+2866,giorgio bassani
+2867,franco fortini
+2869,letteratura italiana
+2870,bibliografia
+2871,carlo emilio gadda
+2872,letteratura italiana
+2873,letteratura moderna e contemporanea
+2874,mario tobino
+2876,letteratura italiana
+2877,letteratura del rinascimento
+2878,poesia dell'ottocento
+2879,giacomo leopardi
+2881,letteratura italiana
+2882,autografi
+2883,giacomo leopardi
+2884,alessandro manzoni
+2885,letteratura italiana
+2886,mario tobino
+2887,bibliografia
+2888,filologia d'autore
+2889,filologia della letteratura italiana
+2890,manoscritti moderni
+2891,autografi
+2892,letteratura italiana
+2893,storia contemporanea
+2894,futurismo
+2896,filologia italiana
+2897,textual scholarship
+2898,editoria digitale
+2899,digital humanities
+2900,letteratura italiana
+2901,poesia del 500
+2902,prosa del 500
+2903,poesia dell'800
+2904,teoria degli stili
+2905,epistolografia del 500
+2907,letteratura italiana
+2908,filologia della letteratura italiana
+2909,filologia d'autore
+2910,carlo emilio gadda
+2911,giacomo leopardi
+2912,critica delle varianti
+2914,letteratura italiana
+2915,letteratura dantesca
+2916,letteratura italiana moderna e contemporanea
+2917,mario tobino
+2918,dante alighieri
+2919,letteratura italiana
+2920,filologia della letteratura italiana
+2921,filologia d'autore
+2922,manoscritti
+2923,giacomo leopardi
+2925,letteratura italiana
+2926,giacomo leopardi
+2927,canti
+2928,poesie disperse
+2929,riproduzioni digitali dei manoscritti
+2930,riproduzioni digitali delle stampe
+2932,letteratura italiana
+2933,letteratura italiana del novecento
+2934,enrico falqui
+2936,textual editing
+2937,textual scholarship
+2938,ecdotica
+2939,filologia italiana
+2940,letteratura italiana
+2941,letteratura italiana moderna e contemporanea
+2942,giaime pintor
+2943,letteratura italiana
+2944,letteratura monderna e contemporanea
+2945,autobiografia
+2946,giacomo leopardi
+2948,letteratura italiana
+2949,letteratura moderna e contemporanea
+2950,mario tobino
+2951,letteratura italiana
+2952,letteratura italiana moderna e contemporanea
+2953,carlo emilio gadda
+2954,freud
+2955,psicoanalisi
+2956,fascismo
+2957,filologia italiana
+2958,letteratura italiana
+2959,letteratura italiana moderna e contemporanea
+2960,d'annunzio
+2961,palazzeschi
+2962,futurismo
+2964,letteratura italiana
+2965,letteratura moderna e contemporanea
+2966,filologia della letteratura italiana
+2967,giorgio bassani
+2969,letteratura italiana
+2970,filologia italiana
+2971,carlo emilio gadda
+2973,letteratura italiana
+2974,letteratura moderna e contemporanea
+2975,filologia della letteratura italiana
+2976,ecdotica
+2977,carlo emilio gadda
+2979,letteratura italiana
+2980,filologia italiana
+2981,giacomo leopardi
+2982,letteratura italiana
+2983,letteratura moderna e contemporanea
+2984,carlo emilio gadda
+2985,archivi
+2987,letteratura italiana
+2988,carlo emilio gadda
+2989,la cognizione del dolore
+2990,letteratura italiana
+2991,letteratura del novecento
+2992,mario tobino
+2993,edizione critica
+2994,archivi del novecento
+2996,filologia italiana
+2997,scholarly editing
+2998,textual scholarship
+2999,digital humanities
+3000,letteratura italiana
+3001,manzoni
+3002,romanzo storico
+3003,promessi sposi
+3004,edizione nazionale  ed europea delle opere di alessandro manzoni
+3005,letteratura italiana
+3006,ugo foscolo
+3007,sepolcri
+3008,giacomo leopardi
+3009,poesia dell'800
+3010,letteratura italiana
+3011,letteratura italiana moderna e contemporanea
+3012,carlo emilio gadda
+3013,archivi
+3015,letteratura italiana
+3016,filologia italiana
+3017,letteratura del novecento
+3018,scholarly editing
+3020,letteratura italiana
+3021,epistolari
+3022,gabriele d'annunzio
+3023,archivi del novecento
+3024,elsa morante
+3025,letteratura italiana
+3026,archivi letterari
+3027,epistolari dell'ottocento e del novecento
+3028,tommaso grossi
+3029,piero
+3030,gobetti
+3031,ada gobetti
+3032,sebastiano timpanaro
+3033,cesare cases
+3035,letteratura italiana
+3036,alessandro manzoni
+3037,romanzo
+3038,letteratura italiana
+3039,filologia italiana
+3040,scholarly editing
+3042,letteratura italiana
+3043,filologia italiana
+3044,rextual scholarship
+3046,letteratura italiana
+3047,vincenzo monti
+3048,neoclassicismo
+3049,poesia dell'ottocento
+3050,letteratura italiana
+3051,letteratura italiana moderna e contemporanea
+3052,alberto savinio
+3053,nazionalismo
+3054,letteratura italiana
+3055,letteratura dell'ottocento
+3056,igino ugo tarchetti
+3057,letteratura italiana
+3058,letteratura moderna e contemporanea
+3059,carlo emilio gadda
+3060,glossario
+3062,letteratura italiana
+3063,letteratura moderna e contemporanea
+3064,giorgio bassani
+3066,letteratura italiana
+3067,letteratura moderna e contemporanea
+3068,letteratura del novecento
+3069,poesia del novecento
+3070,mauro mori
+3072,letteratura italiana
+3073,letteratura dell'ottocento
+3074,giacomo leopardi
+3075,filologia italiana
+3077,letteratura italiana
+3078,letteratura moderna e contemporanea
+3079,carlo emilio gadda
+3080,letteratura italiana
+3081,letteratura moderna e contemporanea
+3082,bibliografia
+3083,carlo emilio gadda
+3084,archivi
+3086,letteratura italiana
+3087,alberto savinio
+3088,andrea de chirico
+3089,arte contemporanea
+3090,letteratura italiana
+3091,metafisica
+3092,alberto savinio
+3093,giorgio de chirico
+3094,linguistica generale
+3095,linguistica comparativa
+3096,glottologia
+3097,linguistica storica
+3098,linguistica applicata
+3099,linguistica italiana
+3100,linguistica generale
+3101,linguistica applicata
+3102,linguistica italiana
+3103,divulgazione
+3104,divulgazione scientifica
+3105,decipherment
+3106,scripts
+3107,epigraphy
+3108,paleography
+3109,computational tools
+3110,neural networks
+3111,linguistica
+3112,bologna
+3113,club
+3114,frame semantics
+3115,frame identification
+3116,evaluation
+3117,ancient writing systems
+3118,deep learning
+3119,unsupervised learning
+3120,natural language processing
+3121,frame identification
+3122,evaluation
+3123,corpora
+3124,italiano
+3125,rappresentatività
+3126,bilanciamento
+3127,anorexia nervosa
+3128,clinical linguistics
+3129,linguistic marker
+3130,eating disorders
+3131,adolescence
+3132,natural language processing
+3133,speech processing
+3134,deep learning
+3135,mental disorders
+3136,automatic speech and language analysis
+3137,digital linguistic biomarkers
+3138,knowledge
+3139,language
+3140,linguistics
+3141,writing
+3142,deep learning
+3143,chatbots
+3144,dialogue design
+3145,pragmatics
+3146,dialogflow cx
+3147,mild cognitive impairment
+3148,dementia screening
+3149,natural language processing
+3150,linguistic biomarkers
+3151,dementia
+3152,language and speech analyses
+3153,linguistic bio-marker
+3154,mild cognitive impairment
+3155,nlp techniques
+3156,speech recognition
+3157,nvidia nemo
+3158,italian
+3159,linear a script
+3160,minoan crete
+3161,fraction signs
+3162,constraint programming
+3163,numerical notations
+3164,dialogue design
+3165,chatbots
+3166,pragmatics
+3167,frame semantics
+3168,frame induction
+3169,iframenet
+3170,contextualised word embeddings
+3171,italian
+3172,evaluation
+3173,natural language processing
+3174,linguistic markers
+3175,feeding and eating disorders
+3176,anorexia nervosa
+3177,natural language processing
+3178,computational linguistics
+3179,speech processing
+3180,italian
+3181,contextualised word embeddings
+3182,part-of-speech tagging
+3183,spoken language
+3184,word sense disambiguation
+3185,quantum probability theory
+3186,complex embeddings
+3187,cognitive psychology
+3188,text summarization
+3189,contextual embeddings
+3190,evaluation measures
+3191,natural language processing
+3192,word sense disambiguation
+3193,quantum probability theory
+3194,syntactic analysis
+3195,dependency parsing
+3196,italian
+3197,neural models
+3198,ensemble models
+3199,pitch detection
+3200,pitch smoothing
+3201,recurrent neural networks
+3202,speech
+3203,prosody
+3204,pitch smoothing
+3205,neural networks
+3206,linguistica
+3207,parsing
+3208,neural networks
+3209,italian
+3210,universal dependencies
+3211,social media language
+3212,twitter
+3213,italian
+3214,universal dependencies
+3215,clic-it 2018
+3216,computational linguistics
+3217,linguistica computazionale
+3218,natural language processing
+3219,cognitive decline
+3220,language
+3221,mild cognitive impairment
+3222,preclinical alzheimer
+3223,speech analysis
+3224,voice recognition
+3225,smarthome
+3226,disability
+3227,internet of things (iot)
+3228,environmental control
+3229,speech disability
+3230,natural language processing
+3231,language resources
+3232,syntactic analysis
+3233,treebanks
+3234,twitter
+3235,parsing
+3236,lexical resources
+3237,framenet
+3238,italian
+3239,iframenet
+3240,dementia
+3241,mci
+3242,mild cognitive impairment
+3243,linguistic markers
+3244,corpora
+3245,dizionari
+3246,atlanti
+3247,parsing
+3248,dependency treebank
+3249,dependency rewriting
+3250,parsing
+3251,dependency treebank
+3252,dependency rewriting tool
+3254,natural language processing
+3255,stochastic models
+3256,quantum probability theory
+3257,language models
+3258,pos-tagging
+3259,deep neural networks
+3260,twitter
+3261,treebank conversion
+3262,dependency parsing
+3263,conversion tools
+3264,pathological language
+3265,mild cognitive impairment
+3266,linguistic features
+3267,automatic classifiers
+3269,pos-tagging
+3270,italian
+3271,deep neural networks
+3272,assistive technology
+3273,clinical applications of speech technology
+3274,language and linguistics
+3275,human-computer interaction
+3276,signal processing
+3277,software
+3278,modeling and simulation
+3279,induzione
+3280,categorie grammaticali
+3281,classi di parole
+3282,corpus
+3283,parti del discorso
+3284,evaluation
+3285,pos-tagging
+3286,twitter
+3287,sentiment analysis
+3288,polarity
+3289,distributional semantics
+3290,document embedding
+3291,paragraph vectors
+3292,automatic detection
+3293,evaluation
+3294,prominence
+3295,prosody
+3296,language and linguistics
+3297,linguistics and language
+3298,lingua parlata
+3299,variazione fonetica
+3300,acquisizione di l2
+3301,destrutturazione della forma sonora
+3302,codifica neurale
+3303,lingua dei segni
+3304,linguaggio musicale
+3305,linguaggio patologico
+3306,trattamento automatico delle lingue naturali
+3307,cognitive decline
+3308,cognitive frailty
+3309,older adults
+3310,personalized diagnosis
+3311,screening
+3312,spontaneous speech analysis
+3313,obstetrics and gynecology
+3314,biochemistry
+3315,genetics and molecular biology (all)
+3316,cognitive decline
+3317,cognitive frailty
+3318,older adults
+3319,personalized diagnosis
+3320,screening
+3321,spontaneous speech analysis
+3322,obstetrics and gynecology
+3323,biochemistry
+3324,genetics and molecular biology (all)
+3325,cognitive decline
+3326,cognitive frailty
+3327,older adults
+3328,personalized diagnosis
+3329,screening
+3330,spontaneous speech analysis
+3332,quantum probability theory
+3333,machine learning
+3334,emotion recognition
+3335,kernel quantum classifier
+3336,evaluation
+3337,classico
+3338,latino
+3339,greco
+3340,grammatica
+3341,lingue classiche
+3342,nahutal
+3343,cinese
+3344,prosody
+3345,prominence
+3346,probabilistic graphical models
+3347,prominence annotation
+3348,sentiment analysis
+3349,evaluation
+3350,morphological analyser
+3351,derivation graph
+3352,italian
+3353,lemmatisation
+3354,morphological analyser
+3355,italian
+3356,lexicon
+3357,evaluation
+3358,lemmatisation
+3359,italian
+3360,prosodia
+3361,frequenza fondamentale f0
+3362,valutazione algoritmi
+3363,information structure
+3364,prominence
+3365,italian speech
+3366,morphological analyser
+3367,derivation graph
+3368,italian language
+3369,evaluation
+3370,information structure
+3371,prominence
+3372,prosody
+3373,prominence
+3374,evaluation
+3375,prosody
+3376,lemmatisation
+3377,italian
+3378,morphological analyser
+3379,lexicon
+3380,evaluation
+3381,lemmatisation
+3382,italian
+3383,information structure
+3384,prosodic prominence
+3385,speech corpora
+3386,spoken italian
+3387,corpus annotation
+3388,derivational morphology
+3389,derivation graph
+3390,representation of affixes
+3391,word formation rule
+3392,sense induction
+3393,corpora
+3394,polysemy
+3395,3d semantic graph
+3396,computational linguistics
+3397,corpus linguistics
+3398,word formation
+3399,paradigm
+3400,database
+3401,computational linguistics
+3402,corpus linguistics
+3403,word formation
+3404,database
+3405,paradigm
+3406,compounding
+3407,parts of speech
+3408,adjective
+3409,corpus evidence
+3410,speech synthesis
+3411,unit selection
+3412,perceptual prominence
+3413,prosody modeling
+3414,metrical phonology
+3415,text-to-speech syntesis
+3416,prosody
+3417,prominence
+3418,corpora
+3419,progettazione e costruzione di corpora
+3420,corpora
+3421,progettazione e costruzione di corpora
+3422,corpus linguistics
+3423,frame semantics
+3424,register variation
+3425,co-occurence graphs
+3426,lexicography
+3427,parsing
+3428,categorial grammars
+3429,polymorphic types
+3430,mildly context sensitive languages
+3431,parsing
+3432,categorial grammars
+3433,polymorphic types
+3434,mildly context sensitive languages
+3435,pos-tagging
+3436,hmm tagger
+3437,transformation-based tagger
+3438,morphological analyser
+3439,analisi fonetica
+3440,prosodia
+3441,prominenza
+3442,corpora
+3443,progettazione e costruzione di corpora
+3444,corpora
+3445,annotazione morfosintattica
+3446,pos-tagging
+3447,analizzatore morfologico
+3448,natural language processing
+3449,evaluation
+3450,computational linguistics
+3451,pos tagging
+3452,tagset
+3453,lexical classes
+3454,linguistica computazionale
+3455,syntactic parsing
+3456,categorial grammars
+3457,automatic grammar learning
+3458,pos tagger
+3459,stacked systems
+3460,evaluation
+3461,evaluation
+3462,pos tagging
+3463,prosody
+3464,prominence
+3465,german
+3466,automatic speech processing
+3467,prosody
+3468,phrasal prominence
+3469,acoustic parameters
+3470,corpus linguistics
+3471,multilingual analysis
+3472,legal language
+3473,parallel/comparable corpora
+3474,semantics
+3475,
+3476,
+3477,
+3478,prosody
+3479,automatic feature extraction
+3480,prominence
+3481,stress accent
+3482,pitch accent
+3483,
+3484,prosodic typology
+3485,prominence identification
+3486,authoring
+3487,web templates
+3488,learning objects
+3489,
+3490,speech processing
+3491,prosody
+3492,prominence identification
+3493,
+3494,speech corpora annotation
+3495,automatic prosodic annotation
+3496,prosodic prominence
+3497,language resources
+3498,grid computing
+3499,corpus annotation
+3500,part-of-speech
+3501,tagset induction
+3502,language learning
+3503,distance learning
+3504,xml templates
+3505,spoken language
+3506,prominence detection
+3507,speech processing
+3508,spoken language
+3509,prominence detection
+3510,speech processing
+3511,linguistic corpora
+3512,corpus design
+3513,dynamic corpus structure
+3514,spoken language
+3515,prominence detection
+3516,speech processing
+3517,language teaching
+3518,self-access environments
+3519,evaluation
+3520,real time systems
+3521,scheduling
+3522,real-time systems
+3523,scheduling
+3524,neural networks
+3525,digital humanities
+3526,cultural heritage
+3527,digital philology
+3528,data visualization
+3529,linked open data
+3530,data visualization
+3531,linked open data
+3532,storytelling
+3533,design thinking
+3534,ontology design
+3535,linked open data
+3536,crowdsourcing
+3537,data analysis
+3538,cinema studies
+3539,literary studies
+3540,wikidata
+3541,imdb
+3542,data analysis
+3543,cinema studies
+3544,literary studies
+3545,wikidata
+3546,imdb
+3547,music data
+3548,data preservation
+3549,catalogue
+3550,linked open data
+3551,library linked data
+3552,semantic web
+3553,crowdsourcing
+3554,semantic web
+3555,edizioni digitali
+3556,rinascimento
+3557,vespasiano da bisticci
+3558,linked open data
+3559,authoritativeness
+3560,art history
+3561,information retrieval
+3562,art historians' personal archives
+3563,art history
+3564,hermeneutics
+3565,photo archives
+3566,semantic web
+3567,linked open data
+3568,art history
+3569,archives
+3570,authoritativeness
+3571,information retrieval
+3572,ontology
+3573,authoritativeness
+3574,art history
+3575,semantic web
+3576,ransomware
+3577,detection
+3578,mitigation
+3579,restoration
+3580,honeypot
+3581,moving-target defence
+3582,resource contention
+3583,ranflood
+3584,serverless
+3585,scheduling
+3586,topology-awareness
+3588,microservices
+3589,jolie
+3590,semi-structured data
+3591,ephemeral data
+3592,edge computing
+3593,fog
+3594,computing
+3595,formal methods
+3596,service-oriented computing
+3597,query languages
+3598,e-health
+3599,microservices
+3600,software security
+3601,software engineering
+3602,threat models
+3603,operations security
+3604,microservices
+3605,model-driven engineering
+3606,domain models
+3607,api generation
+3608,microservices
+3609,architecture-level scaling
+3610,predictive scaling
+3611,microservices
+3612,programming languages
+3613,model-driven engineering
+3614,microservices deployment
+3615,orchestration
+3616,adaptation
+3617,distributed programming
+3618,choreography programming
+3619,multitier programming
+3620,virtualization
+3621,benchmarking
+3622,cloud deployment
+3623,microservice architectures
+3624,automated deployment
+3625,formal methods
+3626,microservices
+3627,security
+3628,systematic literature review
+3629,serverless
+3630,function-execution scheduling
+3631,optimisation
+3632,microservices
+3633,programming languages
+3634,logic
+3635,process calculi
+3636,service function chain
+3637,sdn
+3638,constraint programming
+3639,optimisation
+3640,ephemeral data handling
+3641,in language query languages
+3642,in memory data handling
+3643,microservices
+3644,platoon formation
+3645,security threats
+3646,insiders
+3647,mitigations
+3648,adaptation of distributed systems
+3649,choreographic programming
+3650,dynamic inclusion of new software components
+3651,internet of things
+3652,interoperability
+3653,coap
+3654,mqtt
+3655,serverless
+3656,formal model
+3657,service oriented architectures
+3658,microservices
+3659,formal methods
+3660,iot
+3661,jolie
+3662,high level language
+3663,interoperability
+3665,theoretical computer science
+3666,computer science (all)
+3667,choreographic programming
+3668,integration
+3669,cloud-of-things
+3670,federated platforms
+3671,insider threat
+3672,internet-of-things
+3673,mobility-as-a-service
+3674,computer science (all)
+3675,law
+3676,computer science
+3677,programming languages
+3678,computer science
+3679,logic in computer science
+3680,insider threat
+3681,maas
+3682,security
+3684,microservices
+3685,service-oriented architectures
+3686,software engineering
+3687,automation & control systemscomputer science
+3688,artificial intelligencecomputer science
+3689,software engineering
+3690,model checking
+3691,paleografia
+3692,professori alma mater
+3693,manoscritti
+3694,dante a bologna
+3695,fonti per lo studio di dante
+3696,memoriali bolognesi
+3697,estimi bolognesi età di dante
+3698,gianfranco orlandelli
+3699,giovanni feo
+3700,duecento
+3701,chirurgia
+3702,ippiatria
+3703,teodorico borgognoni
+3704,dicta testium
+3705,testamento
+3706,curia
+3707,cervia
+3708,bologna
+3709,ordine predicatori
+3710,medicina
+3711,teodorico borgognoni
+3712,storia della medicina
+3713,rotolo documentario
+3714,diplomatica
+3715,duecento
+3716,dicta testium
+3717,borgognoni
+3718,dicta testium
+3719,storia della medicina
+3720,duecento bolognese
+3721,alto medioevo
+3722,diplomatica
+3723,paleografia latina
+3724,archivistica
+3725,lombardia
+3726,cancelleria
+3727,notai
+3728,notariato
+3729,rolandino passeggeri
+3730,salatiele
+3731,ars notariae
+3732,formulari notarili
+3733,processo medievale
+3734,documento
+3735,bologna
+3736,duecento
+3737,hoepli
+3738,antiquariato librario
+3740,ix secolo
+3741,notariato
+3742,milano
+3743,paleografia latina
+3744,diplomatica
+3745,diplomi
+3746,documenti privati
+3747,forme
+3748,formulari
+3749,salatiele
+3750,rolandino
+3751,bologna
+3752,notariato
+3753,prassi giuridica
+3754,xiii secolo
+3755,cartulari
+3756,regesti
+3757,legislazione archivistica
+3758,archivi ecclesiastici
+3759,benedetto xiii
+3760,s
+3761,agostino
+3762,de civitate dei
+3763,palinsesto goto-latino
+3764,paleografia latina
+3765,filologia
+3766,edizione di fonti
+3767,vii secolo
+3768,frammento di riuso
+3769,semionciale
+3770,reggio emilia
+3771,firenze
+3772,secolo ix
+3773,documenti
+3774,paleografia latina
+3775,diplomatica
+3776,edizione critica
+3777,ravenna
+3778,papiri
+3779,litterae caelestes
+3780,gesta municipalia
+3781,legislazione tardoantica
+3782,prassi documentaria
+3783,documento
+3784,arezzo
+3785,ix secolo
+3786,carlo il calvo
+3787,legimus
+3788,edizione critica
+3789,paleografia latina
+3790,diplomatica
+3791,liber glossarum
+3792,s
+3793,agostino
+3794,ix secolo
+3795,frammenti reimpiegati in legature
+3796,bologna-scuola cattedrale-irnerio
+3797,xi secolo
+3798,ravenna
+3799,papiri
+3800,gesta municipalia
+3801,misteriosa scrittura grande
+3802,legislazione tardoantica
+3803,paleografia latina
+3804,diplomatica
+3805,s
+3806,agostino
+3807,semionciale
+3808,bologna
+3809,vi secolo
+3810,de civitate dei
+3811,frammenti di riuso
+3812,paleografia
+3813,latin papyri
+3814,papyrology
+3815,roman near east
+3816,dura-europos
+3817,palmyra
+3818,roman army
+3819,roman auxiliary cohort
+3820,roman military bureaucracy
+3821,latin papyri
+3822,petition
+3823,papyrus draft
+3824,late roman egypt
+3825,late latin epistolography
+3826,latin papyri
+3827,roman egypt
+3828,caracalla
+3829,constitutio antoniniana
+3830,latin legal documents
+3831,sophocles
+3832,papyrology
+3833,literary papyri
+3834,greek tragedy
+3835,fragments of greek theatre
+3836,greek palaeography
+3837,roman army
+3838,roman egypt
+3839,roman army studies
+3840,latin papyri
+3841,papyrology
+3842,latin literature in egypt
+3843,latin papyri
+3844,recommendation letter
+3845,late antique egypt
+3846,new roman cursive
+3847,latin epistolography
+3848,ancient philosophy
+3849,papirology
+3850,socrates
+3851,socratic dialogue
+3852,minor socratics
+3853,megaric school
+3854,stilpon
+3855,metrocles
+3856,aristotle
+3857,ethics
+3858,literary criticism
+3859,papyrology
+3860,roman law
+3861,ancient legal history
+3862,ancient history
+3863,documentary papyri
+3864,latin legal documents
+3866,ancient egyptian onomastics
+3867,latin papyri
+3868,greek and latin papyrology
+3869,dura-europos
+3870,dura papyri
+3871,roman army
+3872,auxiliary cohort
+3873,latin papyri
+3874,roman new cursive
+3875,chancery
+3876,late antique egypt
+3877,latin papyri
+3878,legio x fretensis
+3879,business documents
+3880,roman army
+3881,latin papyri
+3882,domitian
+3883,laberius maximus
+3884,prefecture of egypt
+3885,latin palaeography
+3886,latin hexameter
+3887,latin literature on papyrus
+3888,latin palaeography
+3889,roman egypt
+3890,roman citizenship
+3891,roman trade
+3892,latin papyri
+3893,ancient philosophy
+3894,papirology
+3895,socrates
+3896,socratic dialogue
+3897,minor socratics
+3898,megaric school
+3899,stilpon
+3900,metrocles
+3901,aristotle
+3902,ethics
+3903,literary criticism
+3904,latin papyri
+3905,late antique egypt
+3906,datatio ad latus
+3907,latin palaeography
+3908,latin papyri
+3909,viennese papyri
+3910,prozessverhandlung
+3911,late antique egypt
+3912,latin documentary papyri
+3913,viennese papyri collection
+3914,roman citizens in egypt
+3915,greek literary papyri
+3916,epicureanism
+3917,ancient philosophy
+3918,theory of breathing
+3919,dura-europos
+3920,latin papyri
+3921,roman army
+3922,small papyri fragments
+3923,sophocles
+3924,plutarch
+3925,tragic quotations
+3926,sophoclean fragments
+3927,plutarchean quotations
+3928,feriale duranum
+3929,dura-europos
+3930,aelius caesar
+3931,roman religion
+3932,latin papyri
+3933,dura papyri
+3934,dura-europos
+3935,roman army
+3936,roman names
+3937,latin palaeography
+3938,latin documentary papyri
+3939,latin testament
+3940,latin palaeography
+3941,sophocles
+3942,eurypylus
+3943,sophoclean fragments
+3944,tragic fragments
+3945,tragic papyri
+3946,ostrakon
+3947,vandal africa
+3948,vulgar latin
+3949,marichal
+3950,latin palaeography
+3951,latin papyri
+3952,latin chirographum
+3953,business document
+3954,roman egypt
+3955,roman army
+3956,sophocles
+3957,eurypylus
+3958,wormholes
+3959,fragment
+3960,papyrus
+3961,servius
+3962,scholia danielis
+3963,eurypylus
+3964,mysia
+3965,telephus
+3966,european cultural identity
+3967,popular crime narrative
+3968,data knowledge extraction
+3969,multimedia data management
+3970,web technologies
+3971,data science
+3972,data engineering
+3973,data management
+3974,multimedia computing
+3975,multimedia storage
+3976,multimedia applications
+3977,abstractive document summarization
+3978,event extraction
+3979,semantic parsing
+3980,biomedical text mining
+3981,knowledge-driven natural language processing
+3982,natural language understanding
+3983,e-learning
+3984,web services architecture
+3985,data management
+3986,data visualization
+3987,named entity recognition
+3988,data augmentation
+3989,similarity learning
+3990,few shot learning
+3991,computer science
+3992,informatics
+3993,conference proceedings
+3994,research
+3995,applications
+3996,video-based classification of cataplexy
+3997,automatic video content analysis
+3998,motor behavior patterns
+3999,data analysis for health
+4001,automatic video content analysis
+4002,motor behavior patterns
+4003,mobile multimedia technologies
+4004,artiﬁcial intelligence for e-health
+4005,artificial intelligence
+4006,clustering algorithms
+4007,computer networks
+4008,computer science
+4009,computer systems
+4010,computer vision
+4011,data mining
+4012,databases education engineering
+4013,image analysis
+4014,image processing
+4015,internet learning
+4016,machine learning
+4017,mathematics
+4018,pattern recognition
+4019,query languages
+4020,search engines
+4021,world wide web
+4023,stream processing
+4024,real-time analysis
+4025,big data
+4026,multimedia data streams
+4027,stream processing
+4028,real-time analysis
+4029,big data
+4030,computational genomics
+4031,genome-wide pattern-search
+4032,visual analytics
+4033,genome browser
+4034,artificial intelligence
+4035,clustering algorithms
+4036,data mining
+4037,databases
+4038,image processing
+4039,information retrieval
+4040,internet
+4041,machine learning
+4042,mathematics of computing
+4043,pattern recognition
+4044,search engines
+4045,semantics
+4046,similarity search
+4047,topology
+4048,world wide web
+4049,e-learning
+4050,web services architecture
+4051,modeling and design
+4052,collaborative learning
+4053,distance education
+4054,advanced data visualization
+4055,information and data management
+4057,e-learning platforms
+4058,portals
+4059,collaborative learning
+4060,advanced data visualization
+4061,data repository
+4062,data management
+4064,content-based image retrieval
+4065,image classification
+4066,content-based image retrieval
+4067,multiple instance classification
+4068,stream processing
+4069,social networks
+4070,big data
+4071,massive multimedia streams
+4072,streams processing
+4073,face detection/recognition
+4074,big data platforms
+4075,automatic video analysis
+4076,cataplexy
+4077,laughter
+4078,narcolepsy
+4079,video recording
+4080,medicine (all)
+4081,privacy
+4082,ethics in data governance
+4083,multimedia data management
+4084,similarity
+4085,preferences
+4086,agent-based simulation
+4087,citizen participation
+4088,crowdsensing
+4089,decision support systems
+4090,e-mobility
+4091,environmental actions
+4092,historic buildings
+4093,information and communications
+4094,integrated design approach
+4095,intelligent transportation system
+4096,mobile communications
+4097,real-time data analysis
+4098,smart city
+4099,smart grid
+4100,smart lighting
+4101,smart navigation
+4102,electrical and electronic engineering
+4103,content-based image retrieval
+4104,indexing
+4105,salient point descriptors
+4106,genomic computing
+4107,genome browser
+4108,similarity search
+4109,data platform
+4110,data stream processing
+4111,massive data streams
+4112,stream processing
+4113,big data
+4114,image query processing
+4115,automatic video content analysis
+4116,motor behaviour patterns
+4117,mobile multimedia technologies
+4118,genomic computing
+4119,pattern-based query processing
+4120,dynamic programming
+4121,(epi)genomic regions
+4122,genomic computing
+4123,pattern-based query processing
+4124,dynamic programming
+4125,genomic computing
+4126,pattern-based query processing
+4127,dynamic programming
+4129,dynamic programming
+4130,genomic computing
+4131,pattern-based query processing
+4132,information systems
+4133,computer science applications1707 computer vision and pattern recognition
+4134,computational theory and mathematics
+4135,cultural heritage
+4136,multimedia databases
+4137,recommender systems
+4138,context awareness
+4139,authorship attribution
+4140,quantitative techniques
+4141,similarity search
+4142,montale’s diario postumo case study
+4143,data integration
+4144,traditional data
+4145,multimedia data
+4146,ranking queries
+4147,multimedia digital libraries
+4148,efficient
+4149,effective
+4150,and semantically rich data retrieval
+4151,aggregation strategies
+4152,top-k query
+4153,shortest path distance
+4154,efficiency
+4155,similarity-based image retrieval
+4156,low-level features
+4157,k-nearest neighbor
+4158,handwritten corpora
+4159,forgery
+4161,multimedia databases
+4162,multimedia knowledge management
+4163,context-aware recommendation
+4164,cultural heritage
+4165,skyline queries
+4166,probabilistic database
+4167,ranking semantics
+4168,location-based advertising
+4169,game theory
+4170,nash equilibrium
+4171,multimedia data
+4172,cultural heritage
+4173,context-aware recommendation
+4174,content-based video annotation
+4175,video segmentation
+4176,hierarchical semantic video annotation
+4177,visual features
+4178,distributed skyline
+4179,vertical partitioning
+4180,query processing
+4181,probabilistic relation
+4182,query processing
+4183,ranking semantics
+4184,skyline
+4185,image databases
+4186,visual content
+4187,semantics
+4188,multimedia data
+4189,hierarchical objects
+4190,similarity
+4191,efficient query processing
+4192,banche dati multimediali
+4193,indicizzazione
+4194,semantica
+4195,patrimonio culturale
+4196,probabilistic relation
+4197,skyline
+4198,data correlation
+4199,digital libraries
+4200,semantic web
+4201,performing arts
+4202,poetry and music (1500-1700)
+4203,skyline
+4204,collaborative filtering
+4205,index based algorithm
+4206,probabilistic database
+4207,probabilistic relations
+4208,scoring functions
+4209,skyline query
+4210,uncertain data
+4211,multimedia databases
+4212,indexing
+4213,efficient retrieval
+4214,image annotation
+4215,taxonomy of concepts
+4216,visula features
+4217,video retrieval
+4218,visual descriptors
+4219,semantic annotations
+4220,image retrieval
+4221,automatic semantic annotation
+4222,metadata
+4223,visula features
+4224,image databases
+4225,region-based image retrieval
+4226,query processing
+4227,k-nearest neighbors queries
+4228,skyline queries
+4229,video tagging
+4230,shot boundary detection
+4231,video tagging
+4232,semantic concepts
+4233,multi-structural databases
+4234,classification dimensions
+4235,facet trees
+4236,tags
+4237,image databases
+4238,image query processing
+4239,image similarity
+4240,photo collections
+4241,browsing
+4242,faceted search
+4243,pattern comparison
+4244,pattern base management systems
+4245,data models
+4246,knowledge discovery
+4247,content-based image queries
+4248,efficient query processing
+4249,skyline query
+4250,monotone functions
+4251,image annotation
+4252,semantics
+4253,image similarity
+4254,multi-structural databases
+4255,semantic dimensions
+4256,visual features
+4257,none
+4258,multimedia data integration
+4259,qualitative preferences
+4260,strict partial orders
+4261,skyline
+4262,incremental evaluation
+4263,
+4264,
+4265,image annotation
+4266,link analysis
+4267,
+4268,image databases
+4269,browsing
+4270,personalization
+4271,similarity criteria
+4272,
+4273,image similarity
+4274,context
+4275,relevance feedback
+4276,
+4277,
+4278,
+4279,shape matching
+4280,dynamic time warping distance
+4281,discrete fourier transform
+4282,
+4283,
+4284,
+4285,
+4286,edit distance
+4287,distance distribution
+4288,string matching
+4289,multimedia databases
+4290,similarity queries
+4291,relevance feedback
+4292,wavelet transform
+4293,content-based image retrieval
+4294,image segmentation
+4295,similarity search
+4296,dante
+4297,law &amp
+4298,literature
+4299,giustizia
+4300,potere
+4301,tempo
+4302,fede
+4303,dante
+4304,diritto
+4305,giustizia
+4306,stato
+4307,impero
+4308,agenzia
+4309,concorrenza sleale
+4310,informazioni commerciali riservate
+4311,segreti commerciali
+4312,mercati secondari virtuali
+4313,principio di esaurimento
+4314,diritti di proprietà intellettuale
+4315,concorrenza
+4316,diritto d'autore
+4317,diritto d'autore
+4318,diritto della proprietà intellettuale
+4319,principi giuridici
+4320,intelligenza artificiale
+4321,proprietà intellettuale
+4322,tutela degli investimenti
+4323,creatività
+4324,prodotti creativi
+4325,processi creativi
+4326,diritto d'autore
+4327,marchi
+4328,brevetti
+4329,ricerca scientifica
+4330,libertà di ricerca
+4331,incentivi economici alla ricerca
+4332,protezione dei risultati della ricerca
+4333,brevetti
+4334,invenzioni biotecnologiche
+4335,embrioni umani
+4336,limiti alla brevettabilità
+4337,parodia
+4338,diritto d'autore
+4339,eccezione
+4340,proprietà intellettuale
+4341,libertà di espressione
+4342,streaming
+4343,opere dell'ingegno
+4344,distribuzione
+4345,diritto d'autore
+4346,responsabilità del provider
+4347,diritto di comunicazione al pubblico
+4348,diritto di messa a disposizione del pubblico
+4349,diritto d'autore
+4350,diritti patrimoniali
+4351,proprietà intellettuale
+4352,linking
+4353,diritto delle nuove tecnologie
+4354,ebook
+4355,editori
+4356,distribuzione su piattaforme digitali
+4357,diritto d'autore
+4358,internet
+4359,antitrust
+4360,contratto di edizione
+4361,e-publishing
+4362,brevetto
+4363,invenzioni
+4364,cellule staminali
+4365,corte di giustizia ue
+4366,copyright intellectual property digital lending rental and lending directive information society directive
+4367,principio di esaurimento diritto di distribuzione diritto d'autore copyright pubblico nuovo esaurimento online
+4368,diritti audiovisivi sportivi
+4369,limitazione
+4370,brevi estratti di cronaca
+4371,principle of exhaustion
+4372,first sale doctrine
+4373,copyright
+4374,industrial design
+4375,concorrenza
+4376,proprietà industriale
+4377,certezza del diritto
+4378,diritto d'autore
+4379,bilanciamento degli interessi
+4380,interesse pubblico
+4381,eccezioni e limitazioni
+4382,diritto d'autore
+4383,prestito digitale
+4384,diritto d'autore
+4385,limiti ai diritti esclusivi
+4386,appropriation art
+4387,parodia
+4388,diritto d'autore
+4389,misure tecnologiche di protezione
+4390,digital rights management
+4391,autonomia privata
+4392,diritto d'autore
+4393,carattere creativo
+4394,opera letteraria
+4395,unita' minima proteggibile
+4396,diritto d'autore
+4397,diritti esclusivi
+4398,digitalizzazione
+4399,diritto d'autore
+4400,ricerca
+4401,didattica
+4402,biblioteche
+4403,arte concettuale
+4404,forma espressiva
+4405,arte informale
+4406,diritto d'autore
+4407,marchio
+4408,corte di giustizia dell'unione europea
+4409,keyword advertising
+4410,uso del segno come parola chiave
+4411,peer e social production
+4412,commons e anticommons
+4413,diritto d'autore
+4414,ius excludendi
+4415,interessi privati e interessi collettivi
+4416,diritto d'autore
+4417,lex informatica
+4418,digital rights management
+4419,misure tecnologiche di protezione
+4420,copyright
+4421,e-learning
+4422,diritto d'autore
+4423,information & communication technologies
+4424,peer-to-peer
+4425,digital rights management
+4426,diritto d'autore
+4427,private ordering
+4428,creative commons
+4429,misure tecnologiche di protezione
+4430,antitrust
+4431,diritto d'autore
+4432,misure tecnologiche di protezione
+4433,dmca
+4434,direttiva 29/2001/ce
+4435,diritto d'autore
+4436,misure tecnologiche di protezione
+4437,direttiva 29/2001/ce
+4438,eccezioni e limitazioni
+4439,codice dell'amministrazione digitale
+4440,norma abrogate
+4441,codice dell'amministrazione digitale
+4442,responsabilità
+4443,certificatore
+4444,firma digitale
+4445,diritto d'autore
+4446,digital rights management
+4447,contratto
+4448,analisi economica del diritto
+4449,brevetti
+4450,invenzioni biotecnologiche
+4451,novita'
+4452,scoperta
+4453,originalita'
+4454,corte di giustizia ce
+4455,marchio
+4456,carattere distintivo
+4457,corte di giustizia ce
+4458,marchio
+4459,indicazioni di origine geografica
+4460,corte di giustizia ce
+4461,marchi figurativi
+4462,dati personali
+4463,ricerca storica
+4464,archiviazione
+4465,pubblico interesse
+4467,blockchain
+4468,metaverse
+4469,digital identity
+4470,legal theory
+4471,artificial intelligence
+4472,legislation
+4473,legal design
+4474,legal language
+4475,anonimizzazione
+4476,pseudonimizzazione
+4477,sentenze giudiziarie
+4478,dati giudiziari
+4479,dati personali
+4480,gdpr
+4481,hybrid ai
+4482,akoma ntoso
+4483,visualization
+4484,hybrid ai
+4485,akoma ntoso
+4486,visualization
+4487,implementation of european directive
+4488,intelligenza artificiale
+4489,digitalizzazione della giustizia
+4490,giustizia algoritmica
+4491,hybrid artificial intelligence
+4492,giustizia
+4493,intelligenza artificiale
+4494,trasformazione digitale
+4495,big data – artificial intelligence – explicability – explanations – knowability
+4496,non-personal data
+4497,anonymization
+4498,pseudonymization
+4499,intelligenza artificiale
+4500,big data
+4501,spiegabilità dell’intelligenza artificiale
+4502,art
+4503,22 del gdpr
+4504,artificial intelligence and law
+4505,semantic web
+4506,legalxml
+4507,web of linked data
+4508,internet of things
+4509,ethics
+4510,human rights privacy
+4511,rule of law
+4512,digital citizenship mediation
+4513,vulnerability
+4514,discrimination
+4515,artificial intelligence
+4516,data governance
+4518,big data
+4519,ai
+4520,discriminazione
+4521,trasparenza
+4522,spiegabilità
+4523,akoma ntoso
+4524,elegislation
+4525,ejustice
+4526,legal data analytics
+4527,visualization
+4528,argumentation schemes
+4529,knowledge representation
+4530,argument mining
+4531,big data
+4532,personal data
+4533,explicability
+4534,knowledge representation
+4535,automated
+4536,decision-making system
+4538,legal design
+4539,interpretation theory
+4540,data protection
+4541,gdpr
+4542,argument mining
+4543,tree kernel
+4544,argumentative stance
+4545,deontic logic
+4546,legal informatics
+4547,reification
+4548,legal ontology
+4550,gdpr
+4552,oke
+4554,refinement
+4555,argumentation mining
+4556,transfer learning
+4557,argumentation schemes
+4558,argumentation schemes
+4559,uncertainty
+4560,argumentation
+4561,gdpr
+4562,icons
+4563,data protection
+4564,legal design
+4565,semantic web
+4566,transparency
+4567,legalxml
+4568,akoma ntoso
+4569,semantic web
+4570,ontology
+4571,big data
+4572,gdpr
+4573,pubblica amministrazione
+4574,intelligenza artificiale
+4575,automated decision-making
+4576,big data
+4577,data governance
+4578,datafication
+4579,digital identity
+4580,argument mining
+4581,tree kernels
+4582,natural language understanding
+4583,argument schemes
+4584,data protection
+4585,icons
+4586,semantic technologies
+4587,ontology
+4588,transparency
+4589,legal design
+4590,argument mining
+4591,tree kernels
+4592,argument schemes
+4593,communication design
+4594,contract design
+4595,design patterns
+4596,information design
+4597,legal design
+4598,pattern language
+4599,pattern library
+4600,visualization
+4601,transparency
+4602,data protection law
+4603,consumer protection law
+4604,legal ontology
+4605,gdpr
+4606,oke
+4607,refinement
+4609,privacy icons
+4610,privacy policies
+4611,gdpr
+4612,informed consent
+4613,legal design
+4614,legal visualization
+4615,legal semantic web
+4616,nlp  uri  legal xml  modifications  visualization
+4617,network analysis
+4618,big data
+4619,data governance
+4620,emerging issues
+4621,food safety
+4622,risk assessment
+4623,theoretical computer science
+4624,computer science (all)
+4625,privacy
+4626,legal design
+4627,visualization
+4628,legal xml
+4629,legal semantic web
+4630,interpretation
+4631,interaction design
+4632,human-centered design
+4633,standard documentali xml
+4634,meta-regola del diritto
+4635,informatica giuridica
+4636,informatica forense
+4637,egoverment
+4638,ai & law
+4639,legal theory
+4640,complex systems
+4641,semantic web
+4642,legal ontologies
+4643,legal semantic web services
+4644,argumentation
+4645,open data
+4646,psi directive
+4647,licenze creative commons
+4648,analisi comparata
+4649,informatica giuridica
+4650,communication design
+4651,design patterns
+4652,pattern library
+4653,privacy communication
+4654,privacy icons
+4655,privacy videos
+4656,visualization
+4657,ai and law
+4658,legal reasoning
+4659,nlp for legal document
+4660,ml for legal document
+4661,legal ontology
+4662,argumentation
+4663,legal design
+4664,blockchain
+4665,semantic web
+4666,legal reasoning
+4667,legal ontology
+4668,gdpr
+4669,akoma ntoso
+4670,gdpr rule modelling
+4671,legal compliance checking
+4672,legal ontology
+4673,legalruleml
+4674,semantic web
+4675,legal reasoning
+4676,legal ontology
+4677,compliance checking
+4678,semantic web
+4679,legal reasoning
+4680,legal ontology
+4681,checking compliance
+4682,cloud computing
+4683,autonomic computing
+4684,legislation compliance checking
+4685,optimization
+4686,quality of service
+4687,monitoring
+4688,service migration
+4689,service portability
+4690,transparency
+4691,right to know
+4692,public sector information
+4693,e-government
+4694,open government
+4695,transparency
+4696,openness
+4697,right to know
+4698,open data
+4699,open government
+4700,big data
+4701,privacy
+4702,privacy policies
+4703,data protection
+4704,visualization
+4705,icons
+4706,gdpr
+4707,transparency
+4708,informed consent
+4709,usability
+4710,legal design
+4711,open government data mash-up
+4712,licensing of open government data
+4713,legal ontology
+4714,natural language processing
+4715,legal references
+4716,case law databases
+4718,linked open data
+4719,court cases
+4720,court decisions
+4721,electronic publishing
+4722,data protection
+4723,open data
+4724,european union
+4725,big data
+4726,e-government
+4727,open data
+4728,public sector information
+4729,government data processing
+4730,information systems
+4732,e-governments
+4733,government services
+4734,key elements
+4735,knowledge creations
+4736,open datum
+4737,public sector information
+4738,social consequences
+4739,social trend
+4740,open data
+4741,public sector information
+4742,open government data
+4743,linked open
+4744,data
+4745,transparency
+4746,personal data
+4747,licences
+4748,charging
+4749,business models
+4750,semantic web
+4752,interoperability
+4753,formats
+4754,standards
+4755,metadata
+4756,legalruleml
+4757,legal reasoning
+4758,compliance checking
+4759,freedom of information
+4760,open data
+4761,privacy
+4762,right to know
+4763,transparency
+4764,data privacy
+4765,government data processing
+4766,laws and legislation
+4767,transparency
+4769,data journalisms
+4770,digital information
+4771,freedom of informations
+4772,knowledge society
+4773,legal frameworks
+4774,open datum
+4775,public sector information
+4776,right-to-know
+4778,international law
+4779,cloud computing
+4780,autonomic computing
+4781,legislation compliance checking
+4782,optimisation
+4783,quality of service
+4784,identita' digitale
+4785,identità giuridica
+4786,autenticazione
+4787,identificazione elettronica
+4788,conoscibilità del diritto
+4789,accesso all'informazione giuridica
+4790,dematerializzazione delle fonti cognitive del diritto
+4791,legal xml
+4792,legalruleml
+4793,ruleml
+4794,legal rule modelling
+4795,meta
+4796,model
+4797,open government data  – licensing of open data  – creative commons license  – copyright of databases  – sui generis database right  – public domain
+4798,informatica giuridica e diritto dell'infoprmatica
+4799,nuove tecnologie
+4800,legal reasoning
+4801,legal xml
+4802,legal rule modelling
+4803,legal xml
+4804,social network analysis
+4805,web-based visualization
+4806,transparency
+4807,openness
+4808,foia
+4809,open government
+4810,e-government
+4812,public sector information
+4813,open government data
+4814,open data format
+4815,right to
+4816,access
+4817,transparency portal
+4819,digital library
+4820,xml markup
+4821,medieval manuscript
+4822,egovernment
+4823,open data
+4824,open government
+4825,legal xml
+4826,akoma ntoso
+4827,legal rules
+4828,legal rules
+4829,legal xml
+4830,legal reasoning
+4831,nlp
+4832,legal xml
+4833,legal knowledge representation
+4834,legal rules
+4835,legal xml
+4836,legal reasoning
+4837,defeasible logic
+4838,digital signature
+4839,egovernment
+4840,ict law
+4841,nlp
+4842,legal xml
+4843,semantic web
+4844,open data
+4845,open access
+4846,trasparenza
+4847,certezza del diritto
+4848,qualità della legislazione
+4849,modifiche normative
+4850,consolidamento
+4851,xml
+4852,norma-editor
+4853,norma-system
+4854,xml database
+4855,web services
+4856,semantic web
+4857,legal system
+4858,natural language processing
+4859,artificial intelligence
+4860,legal reasoning
+4861,egovenrment
+4862,identificazione informatica
+4863,cie
+4864,cns
+4865,pec
+4866,poste elettronica
+4867,pec
+4868,trasmissione di istanze
+4869,wiping
+4870,degaussing
+4871,cloud computing
+4872,legal xml
+4873,consolidamento
+4874,semantic web
+4875,informatica giuridica
+4876,legal xml
+4877,uri
+4878,semantic web
+4879,norme
+4880,legal xml
+4881,legalruleml
+4882,legal reasoning
+4883,temporal defeasible logic
+4884,akoma ntoso
+4885,legal xml
+4886,semantic web
+4887,legal ontology
+4888,argumentation
+4889,legal xml
+4890,legal rules
+4891,ruleml
+4892,owl
+4893,semantic web
+4894,xml
+4895,egovernment
+4896,digital signature
+4897,privacy
+4898,legal information system
+4899,egovernment
+4900,agenda digitale europea
+4901,ruleml
+4902,owl
+4903,complex events
+4904,akoma ntoso
+4905,legal xml
+4906,semantic web
+4907,eparliament
+4908,legal drafting
+4909,quality of law
+4910,standardisation
+4911,legal rule modelling
+4912,legal reasoning
+4913,xml schema
+4914,legal xml
+4915,versioning
+4916,event management
+4917,legal xml
+4918,akoma ntoso
+4919,metalex cen
+4920,legal ontology
+4921,legal metadata
+4922,legal xml
+4923,official gazzette
+4924,e-law
+4925,lkif-rule
+4926,rule modelling
+4927,temporal dimension
+4928,software
+4929,artificial intelligence
+4930,law
+4931,rule modelling
+4932,formal logic programming
+4933,ruleml
+4934,logic and norms
+4935,legal reasoning
+4936,legal ontology
+4937,legal xml
+4938,temporal dimension
+4939,legalxml
+4940,framenet
+4941,nlp
+4942,temporal modification
+4943,firme elettroniche
+4944,firma digitale
+4945,documento informatico
+4946,legalxml
+4947,long-term preservation
+4948,metadata
+4949,legal sources
+4950,legal xml
+4951,legal ontology
+4952,nlp
+4953,legal xml
+4954,legal rule modelling
+4955,legal ontology
+4956,legal xml
+4957,native xml database
+4958,
+4959,fondamenti cognitivi diritto
+4960,xml
+4961,legal drafting
+4962,democracy
+4963,
+4964,classification of modifications
+4965,xml
+4966,ontology
+4967,
+4968,xml
+4969,legal informatics
+4970,normative knowledge
+4971,consolidation
+4972,
+4973,
+4974,temporal database
+4975,xml
+4976,versioning
+4977,egovernance
+4978,egovernment
+4979,informatica giuridica
+4980,normative system
+4981,xml
+4982,legal ontology
+4983,dynamic time management
+4984,legal informatics
+4985,multi-agent system
+4986,xml
+4987,dynamic norm
+4988,logic
+4989,
+4990,egovernance
+4991,egovernment
+4992,legistica
+4993,legal drafting
+4994,buon governo
+4995,temporal database
+4996,xml
+4997,dynamic norm
+4998,
+4999,patrimonio intangibile
+5000,storia aziendale
+5001,patrimonio industriale
+5002,museo del patrimonio industriale
+5003,governance
+5004,income gap
+5005,sostenibilità finanziaria
+5006,chanel
+5007,entrepreneurship
+5008,fashion
+5009,innovation
+5010,women in business
+5011,outsider
+5012,atypicality
+5013,evaluation
+5014,narratives
+5015,storytelling
+5016,language
+5017,linguistic
+5018,topic modeling
+5019,novelty
+5020,ideas
+5021,creativity
+5022,innovation
+5023,legitimation
+5024,recognition
+5025,audiences
+5026,framing
+5027,narratives/storytelling
+5028,novel idea
+5029,novices/experts
+5030,audience heterogeneity
+5031,expertise
+5032,italian opera industry
+5033,resource
+5034,robust/radical interpretations
+5035,schemas
+5036,tradition
+5037,aesthetics
+5038,strategy
+5039,beauty
+5040,organizational performance
+5041,style
+5042,design
+5044,outsider
+5045,innovation
+5046,entrepreneurship
+5047,leadership
+5048,change
+5049,novelty
+5050,innovation
+5051,legitimacy
+5052,audiences
+5053,creativity
+5054,consecration
+5055,social sequence analysis
+5056,creativity
+5057,career
+5058,category spanning
+5059,categorization
+5060,pitch
+5061,entrepreneurship
+5062,new ideas
+5063,innovation
+5064,social sequence analysis
+5065,creativity
+5066,career
+5067,innovation
+5068,electronic music
+5069,anchor-entrepreneur
+5070,bricolage
+5071,entrepreneurial genealogy
+5072,imprinting
+5073,industry emergence
+5074,novelty
+5075,recognition
+5076,ideas
+5077,narratives
+5078,framing
+5079,innovator
+5080,audience
+5081,status
+5082,social evaluation
+5083,interpersonal relations
+5084,peer group
+5085,social stigma
+5086,conventionality
+5087,craftsmanship
+5088,digital market
+5089,etsy
+5090,narrative
+5091,topic modelling
+5092,style
+5093,aesthetics
+5094,beauty
+5095,strategy
+5096,periphery
+5097,firm entry
+5098,shocks
+5099,alliance networks
+5100,airlines
+5101,peer evaluation
+5102,audiences
+5103,jury
+5104,direct ties
+5105,reciprocity
+5106,cliques/clans
+5107,status
+5108,awards
+5109,recognition
+5110,tournament rituals
+5111,cultural fields
+5112,advertising
+5114,social evaluation
+5115,rewards
+5116,status
+5117,social ties
+5118,tournament rituals
+5119,creativity
+5120,network
+5121,innovation
+5122,legitimacy
+5123,novelty
+5124,pitch
+5125,evaluation
+5126,language
+5127,entrepreneurship
+5128,peer evaluation
+5129,status
+5130,social distance
+5131,awards
+5132,tournament rituals
+5133,consecration
+5134,advertising
+5136,outsiders insiders jolts audiences agency legitimacy novelty field historical study longitude john harrison
+5137,chronometer
+5138,firm performance
+5139,geographical clusters
+5140,growth
+5141,interorganizational networks
+5142,network centrality
+5143,management of technology and innovation
+5144,core/periphery
+5145,environmental jolt
+5146,field evolution
+5147,network change
+5148,rules of attachment
+5149,introduction
+5150,field emergence
+5151,geographic concentration
+5152,regional economic development
+5153,nanotechnology
+5154,serial entrepreneur
+5155,entrepreneurship
+5156,fashion
+5157,innovation
+5158,creativity
+5159,imprenditore
+5160,innovazione sociale
+5161,etica
+5162,creatività
+5163,relazioni sociali
+5164,team
+5165,creativity
+5166,social networks
+5167,core-periphery structure
+5168,legitimacy
+5169,knowledge exchange and creation
+5170,interfirm networks
+5171,core and peripheral firms
+5172,motorcycle industry
+5173,creativity
+5174,networks
+5175,breakthrough innovation
+5176,learning traps
+5177,large establishe firms
+5178,leading change
+5179,star studded team
+5180,project based organization
+5181,collaboration
+5182,team familiarity
+5183,geographical clusters
+5184,microdynamics
+5185,multiplex ties
+5186,network evolution
+5187,tie content
+5188,organizational imprinting
+5189,spinoff
+5190,innovation
+5191,genealogical perspective
+5192,growth
+5193,opportunities
+5194,network
+5195,project-based organizations
+5196,strategic management
+5197,project-based organization
+5198,literature review
+5199,strategic management
+5200,reti sociali
+5201,embedded ties
+5202,evoluzione delle reti sociali
+5203,chiusura triadica
+5204,cluster geografici
+5205,roject-entrepreneur
+5206,network centrality
+5207,team composition
+5208,creativity
+5209,networks
+5210,
+5211,
+5212,innovation
+5213,breakthrough
+5214,large firms
+5215,
+5216,project-entrepreneurs
+5217,social network
+5218,entrepreneurship
+5219,hollywood
+5220,
+5221,commercial and artistic performance
+5222,fitness
+5223,human capital
+5224,network resources
+5225,
+5226,
+5227,film industry
+5228,
+5229,repeated collaborations
+5230,project firms
+5231,organizational learning
+5232,organizational impermanence
+5233,film industry
+5234,film industry
+5235,organizational impermanence
+5236,organizational learning
+5237,project firms
+5238,repeated collaborations
+5239,project based organization
+5240,organizational capabilities
+5241,team
+5242,
+5243,
