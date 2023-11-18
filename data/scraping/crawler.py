@@ -24,7 +24,7 @@ class Page(object):
     def get_soup(self, target):
         page = self.get_page(target)
         if page:
-            return BeautifulSoup(page, 'lxml', parse_only=SoupStrainer('main', {'id': 'content'}))
+            return BeautifulSoup(page, 'html.parser') #'lxml')#, parse_only=SoupStrainer('main', {'id': 'content'}))
         else:
             return None
 
@@ -74,6 +74,9 @@ class Page(object):
     
     def get_first_result(self):
         return self.soup.find('a', {'class': 'authority author'})['href']
+
+    def get_first_result_name(self):
+        return self.soup.find('a', {'class': 'authority author'}).text
 
 class PublicationPage(Page):
     def __init__(self, target: str):
@@ -239,11 +242,46 @@ def scrape_publications():
             print('royalty', name)
         else:
             name = unibo_page.get_name()
-        cris_publications_page = CrisPublicationsPage(search_author(name))
-        prof_dict[prof]['Publications'] = cris_publications_page.cycle_pages()
+        print(name)
 
     with codecs.open('./cs_authors.json', "w", "utf-8") as output: 
         json.dump(prof_dict, output, indent=4)
+
+def get_author_name():
+    dhdk_prof_list = set(['silvio.peroni', 'sofia.pescarin', 'fabio.vitali', 'francesca.tomasi', 'aldo.gangemi', 'paola.italia', 'fabio.tamburini', 'marilena.daquino2', 'saverio.giallorenzo2', 'annafelicia.zuffran2', 'giulio.iovine2', 'ilaria.bartolini', 'giorgio.spedicato', 'monica.palmirani', 'ekaterina.baskakova2', 'simone.ferriani', 'daniele.donati', 'luca.trapin', 'michela.milano'])
+    cs_prof_list = set(['claudio.sacerdoticoen', 'armando.bazzani', 'giulia.spaletta', 'serena.morigi', 'stefano.pagliarani9', 'danilo.montesi', 'maurizio.gabbrielli', 'fabio.vitali', 'cosimo.laneve', 'ugo.dallago', 'andrea.asperti', 'gianluigi.zavattaro', 'claudio.sacerdoticoen', 'zeynep.kiziltan', 'alessandro.amoroso', 'lorenzo.donatiello', 'renzo.davoli', 'roberto.gorrieri', 'marco.difelice3', 'daviderossi', 'furio.camillo', 'valentina.presutti', 'ilaria.bartolini', 'luciano.bononi', 'giuseppe.lisanti', 'p.torroni', 'gustavo.marfia', 'ozalp.babaoglu'])
+    it_prof_list = set(["bruno.capaci2", "matteo.viale", "luigi.weber", "filippo.milani", "francesco.ferretti", "marco.bazzocchi", "marco.veglia", "francesco.sberlati", "giovanni.baffetti", "sebastiana.nobili", "nicola.bonazzi3", "chiara.coluccia", "alberto.bertoni", "stefano.colangelo", "riccardo.gasperina", "riccardo.tesi", "elisa.dalchiele3", "giuseppina.brunetti", "andrea.villani5", "giuseppe.ledda", "daniele.tripaldi", "lucia.floridi2", "rosa.pugliese", "gloria.gagliardi", "luca.disabatino2", "simone.mattiola", "elisa.scerrati", "l.lugli", "francesca.masini", "silvia.ballare", "fabio.tamburini", "francesco.carbognin", "ferdinando.amigoni", "vanessa.pietrantonio", "federico.bertoni", "stefano.malfatti", "paolo.tinti", "francesca.tomasi", "maddalena.modesti3", "leonardo.quaquarelli", "iolanda.ventura", "francesca.florimbii2", "sandra.costa", "annafelicia.zuffran2", "sebastiano.moruzzi", "guido.gherardi", "costantino.marmo", "berardo.pio", "eleonora.caramelli2", "giovanni.matteucci", "alessandr.zanchettin", "fabio.martelli3", "vincenzo.lavenia", "michele.caputo", "bruna.conconi", "gilberta.golinelli2", "michael.dallapiazza", "annapaola.soncini", 'elisa.dalchiele3', 'giuseppina.brunetti', 'andrea.villani5', 'giuseppe.ledda', 'iolanda.ventura', 'daniele.tripaldi', 'luca.disabatino2', 'lucia.floridi2', 'stefano.malfatti', 'paolo.tinti', 'francesca.tomasi', 'maddalena.modesti3', 'sandra.costa', 'annafelicia.zuffran2', 'francesco.carbognin', 'ferdinando.amigoni', 'vanessa.pietrantonio', 'federico.bertoni', 'bruno.capaci2', 'matteo.viale', 'luigi.weber', 'filippo.milani', 'francesco.ferretti', 'marco.bazzocchi', 'marco.veglia', 'loredana.chines', 'francesco.sberlati', 'giovanni.baffetti', 'sebastiana.nobili', 'nicola.bonazzi3', 'chiara.coluccia', 'alberto.bertoni', 'stefano.colangelo', 'riccardo.gasperina', 'riccardo.tesi'])
+
+    royalty_dict = {'claudio.sacerdoticoen': 'SACERDOTI COEN, CLAUDIO', 'ugo.dallago': 'DAL LAGO, UGO', 'marco.difelice3': 'DI FELICE, MARCO', 'luca.disabatino2': 'DI SABATINO, LUCA', 'elisa.dalchiele3': 'DAL CHIELE, ELISA', 'riccardo.gasperina': 'GASPERINA GERONI, RICCARDO'}
+
+    prof_list = cs_prof_list
+    with open('data/cs/cs_publications.json', "r") as outfile: 
+        publications = json.load(outfile)
+
+    def search_author(name):
+        try:
+            return 'https://cris.unibo.it/' + search_page.get_first_result()[:-2] + '100'
+        except TypeError:
+            print('---------------------------------------------', target, ' not found!')
+            return target
+
+    for prof in publications:
+        unibo_page = Page(f'https://www.unibo.it/sitoweb/{prof}/en')
+        if prof in royalty_dict:
+            name = royalty_dict[prof]
+            print('royalty', name)
+        else:
+            name = unibo_page.get_name()
+        print(name)
+        target = 'https://cris.unibo.it/browse?type=author&order=ASC&rpp=20&starts_with=' + name
+        search_page = Page(target)
+        name2 = search_page.get_first_result_name()
+        print(name2)
+        publications[prof]['Nome'] = name2
+
+    with open('data/{0}/{0}_publications.json'.format('cs'), 'w') as f:
+        json.dump(publications, f, indent=4)
+
     
 def main():
 
@@ -253,7 +291,8 @@ def main():
     #scrape_pub_info('./it_authors.json', './data/it_publications.json')
     #identify_authors('./data/dhdk_publications.json', './data/dhdk/dhdk_authors.json')
     #identify_authors('./data/cs_publications.json', './data/cs/cs_authors.json')
-    identify_authors('./data/it/it_publications.json', './data/it/it_authors_25.json')
+    #identify_authors('./data/it/it_publications.json', './data/it/it_authors_25.json')
+    get_author_name()
 
 if __name__ == '__main__':
     main()

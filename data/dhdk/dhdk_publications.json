@@ -771,7 +771,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "DAQUINO, MARILENA"
     },
     "silvio.peroni": {
         "Academic discipline": "INF/01 Informatics",
@@ -3478,7 +3479,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "PERONI, SILVIO"
     },
     "paola.italia": {
         "Academic discipline": "L-FIL-LET/13 Philology of Italian Literature",
@@ -5770,7 +5772,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "ITALIA, PAOLA MARIA CARMELA"
     },
     "fabio.vitali": {
         "Academic discipline": "INF/01 Informatics",
@@ -8577,7 +8580,8 @@
                 "dc.identifier.doi": "10.5281/zenodo.7973646",
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "VITALI, FABIO"
     },
     "daniele.donati": {
         "Academic discipline": "IUS/10 Administrative Law",
@@ -9586,7 +9590,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "2.01 Capitolo / saggio in libro"
             }
-        }
+        },
+        "Nome": "DONATI, DANIELE"
     },
     "francesca.tomasi": {
         "Academic discipline": "M-STO/08 Archival Science, Bibliography and Librarianship",
@@ -11721,7 +11726,8 @@
                 "dc.identifier.doi": "10.36253/jlis.it-557",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "TOMASI, FRANCESCA"
     },
     "giorgio.spedicato": {
         "Academic discipline": "IUS/04 Business Law",
@@ -12218,7 +12224,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "3.02 Curatela"
             }
-        }
+        },
+        "Nome": "SPEDICATO, GIORGIO"
     },
     "annafelicia.zuffran2": {
         "Academic discipline": "M-STO/09 Paleography",
@@ -12456,7 +12463,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "3.03 Edizione critica"
             }
-        }
+        },
+        "Nome": "ZUFFRANO, ANNAFELICIA"
     },
     "ilaria.bartolini": {
         "Academic discipline": "ING-INF/05 Information Processing Systems",
@@ -13818,7 +13826,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.04 Coordinamento di progetti di ricerca"
             }
-        }
+        },
+        "Nome": "BARTOLINI, ILARIA"
     },
     "michela.milano": {
         "Academic discipline": "ING-INF/05 Information Processing Systems",
@@ -16137,7 +16146,8 @@
                 "dc.identifier.doi": "10.24963/ijcai.2023/644",
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "MILANO, MICHELA"
     },
     "aldo.gangemi": {
         "Academic discipline": "INF/01 Informatics",
@@ -18358,7 +18368,8 @@
                 "dc.identifier.doi": "10.1109/ACCESS.2023.3240089",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "GANGEMI, ALDO"
     },
     "monica.palmirani": {
         "Academic discipline": "IUS/20 Philosophy of Law",
@@ -20543,7 +20554,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "2.01 Capitolo / saggio in libro"
             }
-        }
+        },
+        "Nome": "PALMIRANI, MONICA"
     },
     "sofia.pescarin": {
         "Academic discipline": null,
@@ -20643,7 +20655,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "4.03 Poster"
             }
-        }
+        },
+        "Nome": "PESCARIN, SOFIA"
     },
     "fabio.tamburini": {
         "Academic discipline": "L-LIN/01 Historical and General Linguistics",
@@ -22377,7 +22390,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.02 Ruolo editoriale in collana"
             }
-        }
+        },
+        "Nome": "TAMBURINI, FABIO"
     },
     "giulio.iovine2": {
         "Academic discipline": "L-ANT/05 Papyrology",
@@ -22845,7 +22859,8 @@
                 "dc.identifier.doi": "10.1017/9781009183123",
                 "dc.collection.name": "3.01 Monografia / trattato scientifico in forma di libro"
             }
-        }
+        },
+        "Nome": "IOVINE, GIULIO"
     },
     "luca.trapin": {
         "Academic discipline": "SECS-S/03 Economic Statistics",
@@ -23131,7 +23146,8 @@
                 "dc.identifier.doi": "10.1214/22-AOAS1639",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "TRAPIN, LUCA"
     },
     "saverio.giallorenzo2": {
         "Academic discipline": "INF/01 Informatics",
@@ -23759,7 +23775,8 @@
                 "dc.identifier.doi": "10.1016/j.cose.2023.103295",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "GIALLORENZO, SAVERIO"
     },
     "simone.ferriani": {
         "Academic discipline": "SECS-P/08 Management",
@@ -24664,7 +24681,8 @@
                 "dc.identifier.doi": "10.1017/eso.2021.58",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "FERRIANI, SIMONE"
     },
     "ekaterina.baskakova2": {
         "Academic discipline": null,
@@ -24698,6 +24716,7 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "BASKAKOVA, EKATERINA"
     }
 }

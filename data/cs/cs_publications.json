@@ -733,7 +733,8 @@
                 "dc.identifier.doi": "10.4230/LIPIcs.CP.2021.26",
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "KIZILTAN, ZEYNEP"
     },
     "giuseppe.lisanti": {
         "Academic discipline": "INF/01 Informatics",
@@ -1435,7 +1436,8 @@
                 "dc.identifier.doi": "10.1145/3507918",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "LISANTI, GIUSEPPE"
     },
     "cosimo.laneve": {
         "Academic discipline": "INF/01 Informatics",
@@ -2490,7 +2492,8 @@
                 "dc.identifier.doi": "10.1016/j.scico.2022.102911",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "LANEVE, COSIMO"
     },
     "roberto.gorrieri": {
         "Academic discipline": "INF/01 Informatics",
@@ -3494,7 +3497,8 @@
                 "dc.identifier.doi": "10.1016/j.tcs.2021.09.037",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "GORRIERI, ROBERTO"
     },
     "andrea.asperti": {
         "Academic discipline": "INF/01 Informatics",
@@ -4508,7 +4512,8 @@
                 "dc.identifier.doi": "10.3390/app13116487",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "ASPERTI, ANDREA"
     },
     "fabio.vitali": {
         "Academic discipline": "INF/01 Informatics",
@@ -7315,7 +7320,8 @@
                 "dc.identifier.doi": "10.5281/zenodo.7973646",
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "VITALI, FABIO"
     },
     "ozalp.babaoglu": {
         "Academic discipline": "INF/01 Informatics",
@@ -8337,7 +8343,8 @@
                 "dc.identifier.doi": "10.1016/j.future.2019.11.029",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "BABAOGLU, OZALP"
     },
     "gianluigi.zavattaro": {
         "Academic discipline": "INF/01 Informatics",
@@ -10612,7 +10619,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "ZAVATTARO, GIANLUIGI"
     },
     "serena.morigi": {
         "Academic discipline": "MAT/08 Numerical Analysis",
@@ -12502,7 +12510,8 @@
                 "dc.identifier.doi": "10.1007/s10444-022-10000-4",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "MORIGI, SERENA"
     },
     "ugo.dallago": {
         "Academic discipline": "INF/01 Informatics",
@@ -14337,7 +14346,8 @@
                 "dc.identifier.doi": "10.1016/j.tcs.2023.113928",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "DAL LAGO, UGO"
     },
     "ilaria.bartolini": {
         "Academic discipline": "ING-INF/05 Information Processing Systems",
@@ -15699,7 +15709,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.04 Coordinamento di progetti di ricerca"
             }
-        }
+        },
+        "Nome": "BARTOLINI, ILARIA"
     },
     "gustavo.marfia": {
         "Academic discipline": "INF/01 Informatics",
@@ -18042,7 +18053,8 @@
                 "dc.identifier.doi": "10.3390/s23073542",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "MARFIA, GUSTAVO"
     },
     "furio.camillo": {
         "Academic discipline": "SECS-S/03 Economic Statistics",
@@ -18606,7 +18618,8 @@
                 "dc.identifier.doi": "10.1080/00220973.2017.1391161",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "CAMILLO, FURIO"
     },
     "p.torroni": {
         "Academic discipline": "ING-INF/05 Information Processing Systems",
@@ -21613,7 +21626,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "TORRONI, PAOLO"
     },
     "lorenzo.donatiello": {
         "Academic discipline": "INF/01 Informatics",
@@ -22223,7 +22237,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "DONATIELLO, LORENZO"
     },
     "stefano.pagliarani9": {
         "Academic discipline": "MAT/06 Probability and Statistics",
@@ -22588,7 +22603,8 @@
                 "dc.identifier.doi": "10.1016/j.matcom.2022.12.029",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "PAGLIARANI, STEFANO"
     },
     "giulia.spaletta": {
         "Academic discipline": "MAT/08 Numerical Analysis",
@@ -23836,7 +23852,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "SPALETTA, GIULIA"
     },
     "danilo.montesi": {
         "Academic discipline": "INF/01 Informatics",
@@ -25460,7 +25477,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.04 Coordinamento di progetti di ricerca"
             }
-        }
+        },
+        "Nome": "MONTESI, DANILO"
     },
     "daviderossi": {
         "Academic discipline": "INF/01 Informatics",
@@ -25484,7 +25502,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "4.02 Riassunto (Abstract)"
             }
-        }
+        },
+        "Nome": "ROSSI, DAVIDE"
     },
     "alessandro.amoroso": {
         "Academic discipline": "INF/01 Informatics",
@@ -26248,7 +26267,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "3.01 Monografia / trattato scientifico in forma di libro"
             }
-        }
+        },
+        "Nome": "AMOROSO, ALESSANDRO"
     },
     "renzo.davoli": {
         "Academic discipline": "INF/01 Informatics",
@@ -27015,7 +27035,8 @@
                 "dc.identifier.doi": "10.1145/3545947.3576312",
                 "dc.collection.name": "4.03 Poster"
             }
-        }
+        },
+        "Nome": "DAVOLI, RENZO"
     },
     "valentina.presutti": {
         "Academic discipline": "INF/01 Informatics",
@@ -28482,7 +28503,8 @@
                 "dc.identifier.doi": "10.1145/3603163.3609035",
                 "dc.collection.name": "4.01 Contributo in Atti di convegno"
             }
-        }
+        },
+        "Nome": "PRESUTTI, VALENTINA"
     },
     "maurizio.gabbrielli": {
         "Academic discipline": "INF/01 Informatics",
@@ -29950,7 +29972,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "GABBRIELLI, MAURIZIO"
     },
     "claudio.sacerdoticoen": {
         "Academic discipline": "INF/01 Informatics",
@@ -31097,7 +31120,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "3.02 Curatela"
             }
-        }
+        },
+        "Nome": "SACERDOTI COEN, CLAUDIO"
     },
     "marco.difelice3": {
         "Academic discipline": "INF/01 Informatics",
@@ -33566,7 +33590,8 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.04 Coordinamento di progetti di ricerca"
             }
-        }
+        },
+        "Nome": "DI FELICE, MARCO"
     },
     "armando.bazzani": {
         "Academic discipline": "MAT/07 Mathematical Physics",
@@ -34747,7 +34772,8 @@
                 "dc.identifier.doi": "10.1103/PhysRevAccelBeams.25.104001",
                 "dc.collection.name": "1.01 Articolo in rivista"
             }
-        }
+        },
+        "Nome": "BAZZANI, ARMANDO"
     },
     "luciano.bononi": {
         "Academic discipline": "INF/01 Informatics",
@@ -37395,6 +37421,7 @@
                 "dc.identifier.doi": null,
                 "dc.collection.name": "8.01 Ruolo editoriale in rivista"
             }
-        }
+        },
+        "Nome": "BONONI, LUCIANO"
     }
 }
